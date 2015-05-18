@@ -48,6 +48,10 @@ img {
 Main Component
 
 --- */
+#section1 {
+    min-height: 90% !important;
+}
+
 .cd-section {
     min-height: 100%;
     position: relative;
@@ -84,10 +88,71 @@ Main Component
 		color: $color-4;
 		font-weight: 300;
 		text-transform: uppercase;
-		@include font-size(20px);
+        @include font-size(40px);
 	}
 
 	p {
 		line-height: 1.6;
 	}
+}
+
+/* Non touch device */
+.no-touch #cd-vert-nav {
+    position: fixed;
+    right: 40px;
+    @include center(y); // center verticaly, see _mixins.scss
+    z-index: 1;
+
+    li {
+        text-align: right;
+    }
+
+    a {
+        display: inline-block;
+        @include clearfix;
+
+        /* prevent weirdness with CSS3 transforms in webkit */
+		@include backface-visibility(hidden);
+
+        span {
+            float: right;
+            display: inline-block;
+            @include transform(scale(.5));
+        }
+
+        &:hover span {
+            @include transform(scale(1));
+        }
+
+        &:hover .cd-label {
+            opacity: 1;
+        }
+
+        &.is-selected .cd-dot {
+            background-color: $color-4;
+        }
+
+        .cd-dot {
+            position: relative;
+            top: 10px;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: $color-3;
+            transition: transform 0.2s, background-color 0.5s;
+            @include transform-origin(50% 50%);
+        }
+
+        .cd-label {
+            position: relative;
+            margin-right: 10px;
+            padding: .6em .7em;
+            color: $color-4;
+            @include font-size(16px);
+
+            transition: transform 0.2s, opacity 0.2s;
+            opacity: 0;
+            @include transform-origin(100% 50%);
+        }
+    }
 }
