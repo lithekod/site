@@ -1,7 +1,41 @@
 @import 'bourbon'; // http://bourbon.io/
 
-@import "../partials/_variables.scss";
+@import "../partials/_variables.scss"; // contains all fonts, colors...
 
-@import "../partials/_mixins.scss";
+@import "../partials/_mixins.scss"; // some custom mixins
 
-@import "../partials/_layout.scss";
+@import "../partials/_layout.scss"; // media queries etc.
+
+/* ---
+
+Primary styles
+
+--- */
+
+html * {
+    -webkit-font-smoothing: antialized;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+body {
+    font: {
+        size: 100%;
+        family: $primary-font;
+    }
+}
+
+body, html {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
