@@ -12,12 +12,15 @@ html * {
 
 body {
   font-size: 100%;
-  font-family: "Ubuntu", sans-serif; }
+  font-family: "Ubuntu", sans-serif;
+  color: #3e3947;
+  background-color: #fff; }
 
 body, html {
   height: 100%; }
 
 a {
+  color: #3e3947;
   text-decoration: none; }
 
 img {
@@ -32,3 +35,34 @@ Main Component
   min-height: 100%;
   position: relative;
   padding: 2em; }
+  .cd-section h1 {
+    color: #fff; }
+  .cd-section:nth-of-type(odd) {
+    background-color: #3e3947; }
+    .cd-section:nth-of-type(odd) p {
+      color: #898099; }
+  .cd-section:nth-of-type(even) {
+    background-color: #745360; }
+    .cd-section:nth-of-type(even) p {
+      color: #bda3ad; }
+  .cd-section h1, .cd-section p {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    bottom: auto;
+    right: auto;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -o-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    width: 90%;
+    text-align: center; }
+  .cd-section h1 {
+    color: #fff;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-size: 1.25rem; }
+  .cd-section p {
+    line-height: 1.6; }
