@@ -29,3 +29,7 @@
         @include transform(translateY(-50%));
     }
 }
+
+@mixin border-radius($radius:.25em) {
+    border-radius: $radius;
+}

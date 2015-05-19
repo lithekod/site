@@ -15,6 +15,16 @@ $(document).ready(function() {
         smoothScroll($(this.hash));
     });
 
+    //open-close navigation on touch devices
+    $('.touch .cd-nav-trigger').on('click', function(){
+    	$('.touch #cd-vert-nav').toggleClass('open');
+
+    });
+    //close navigation on touch devices when selectin an elemnt from the list
+    $('.touch #cd-vert-nav a').on('click', function(){
+    	$('.touch #cd-vert-nav').removeClass('open');
+    });
+
     function updateNavigation() {
 
         contentSections.each(function() {

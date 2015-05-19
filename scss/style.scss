@@ -43,6 +43,20 @@ img {
     max-width: 100%;
 }
 
+/* --------------------------------
+
+Reusable parts, i.e modules
+
+-------------------------------- */
+
+// Replaces text with a background-image
+.cd-img-replace {
+	display: inline-block;
+	overflow: hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+}
+
 /* ---
 
 Main Component
@@ -108,6 +122,10 @@ Main Component
 }
 
 /* Non touch device */
+.cd-nav-trigger {
+	display: none;
+}
+
 .no-touch #cd-vert-nav {
     position: fixed;
     right: 40px;
@@ -166,4 +184,117 @@ Main Component
             @include transform-origin(100% 50%);
         }
     }
+}
+
+/* Touch devices */
+
+.touch .cd-nav-trigger {
+	display: block;
+	z-index: 2;
+	position: fixed;
+	bottom: 30px;
+	right: 5%;
+	height: 52px;
+	width: 52px;
+	@include border-radius;
+	background: rgba($color-4, .9);
+
+	span {
+		position: absolute;
+		height: 4px;
+		width: 4px;
+		background-color: $color-1;
+		border-radius: 50%;
+		@include center;
+
+		&::before, &::after {
+			content: '';
+			height: 100%;
+			width: 100%;
+			position: absolute;
+			left: 0;
+			background-color: inherit;
+			border-radius: inherit;
+		}
+
+		&::before {
+			top: -9px;
+		}
+
+		&::after {
+			bottom: -9px;
+		}
+	}
+}
+
+.touch #cd-vert-nav {
+	position: fixed;
+	z-index: 1;
+	right: 5%;
+	bottom: 30px;
+	width: 90%;
+	max-width: 400px;
+	max-height: 90%;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+	@include transform-origin(right bottom);
+	@include transform(scale(0));
+	@include transition-property(transform);
+	@include transition-duration(.2s);
+	@include border-radius;
+	background-color: rgba($color-4, .9);
+
+	a {
+		display: block;
+		padding: 1em;
+		border-bottom: 1px solid rgba($color-1, .1);
+
+		span:first-child {
+			display: none;
+		}
+
+		&.is-selected span:last-child {
+			color: $color-3;
+		}
+	}
+
+	&.open {
+		@include transform(scale(1));
+	}
+
+	&.open + .cd-nav-trigger {
+		background-color: transparent;
+
+		span {
+			background-color: rgba($color-1, 0);
+		}
+
+		span::before, span::after {
+			background-color: rgba($color-1, 1);
+			height: 3px;
+			width: 20px;
+			border-radius: 0;
+			left: -8px;
+		}
+
+		span::before {
+			@include transform(rotate(45deg));
+			top: 1px;
+		}
+
+		span::after {
+			@include transform(rotate(135deg));
+			bottom: 0;
+		}
+	}
+
+	li:last-child a {
+		border-bottom: none;
+	}
+}
+
+@include MQ(M) {
+	.touch .cd-nav-trigger, .touch #cd-vert-nav {
+		bottom: 40px;
+	}
 }
