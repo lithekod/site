@@ -88,12 +88,23 @@ Main Component
 		color: $color-4;
 		font-weight: 300;
 		text-transform: uppercase;
-        @include font-size(40px);
+        @include font-size(20px);
 	}
 
 	p {
 		line-height: 1.6;
 	}
+
+    @include MQ(M) {
+        h1 {
+            @include font-size(40px);
+        }
+
+        p {
+            @include font-size(20px);
+            line-height: 2;
+        }
+    }
 }
 
 /* Non touch device */
