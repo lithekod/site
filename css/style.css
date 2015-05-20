@@ -7,16 +7,19 @@ html * {
   -webkit-font-smoothing: antialized;
   -moz-osx-font-smoothing: grayscale; }
 
-*, *:after, *:before {
+*,
+*:after,
+*:before {
   box-sizing: border-box; }
 
 body {
   font-size: 100%;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #3e3947;
   background-color: #fff; }
 
-body, html {
+body,
+html {
   height: 100%; }
 
 a {
@@ -43,7 +46,10 @@ Main Component
 
 --- */
 #section1 {
-  min-height: 90% !important; }
+  min-height: 90% !important;
+  background-color: transparent !important;
+  background: url("../images/stardust.png") no-repeat center center fixed;
+  background-size: cover; }
 
 .cd-section {
   min-height: 100%;
@@ -51,15 +57,16 @@ Main Component
   padding: 2em; }
   .cd-section h1 {
     color: #fff; }
-  .cd-section:nth-of-type(odd) {
-    background-color: #3e3947; }
-    .cd-section:nth-of-type(odd) p {
-      color: #898099; }
   .cd-section:nth-of-type(even) {
-    background-color: #745360; }
+    background-color: #3e3947; }
     .cd-section:nth-of-type(even) p {
+      color: #898099; }
+  .cd-section:nth-of-type(odd) {
+    background-color: #745360; }
+    .cd-section:nth-of-type(odd) p {
       color: #bda3ad; }
-  .cd-section h1, .cd-section p {
+  .cd-section h1,
+  .cd-section p {
     position: absolute;
     left: 50%;
     top: 50%;
@@ -76,14 +83,14 @@ Main Component
     color: #fff;
     font-weight: 300;
     text-transform: uppercase;
-    font-size: 20px;
-    font-size: 1.25rem; }
+    font-size: 40px;
+    font-size: 2.5rem; }
   .cd-section p {
     line-height: 1.6; }
   @media only screen and (min-width: 768px) {
     .cd-section h1 {
-      font-size: 40px;
-      font-size: 2.5rem; }
+      font-size: 70px;
+      font-size: 4.375rem; }
     .cd-section p {
       font-size: 20px;
       font-size: 1.25rem;
@@ -149,7 +156,7 @@ Main Component
     .no-touch #cd-vert-nav a .cd-label {
       position: relative;
       margin-right: 10px;
-      padding: .8em .7em;
+      padding: 0.8em 0.7em;
       color: #fff;
       font-size: 16px;
       font-size: 1rem;
@@ -246,7 +253,8 @@ Main Component
     background-color: transparent; }
     .touch #cd-vert-nav.open + .cd-nav-trigger span {
       background-color: rgba(62, 57, 71, 0); }
-    .touch #cd-vert-nav.open + .cd-nav-trigger span::before, .touch #cd-vert-nav.open + .cd-nav-trigger span::after {
+    .touch #cd-vert-nav.open + .cd-nav-trigger span::before,
+    .touch #cd-vert-nav.open + .cd-nav-trigger span::after {
       background-color: #3e3947;
       height: 3px;
       width: 20px;
@@ -270,5 +278,6 @@ Main Component
     border-bottom: none; }
 
 @media only screen and (min-width: 768px) {
-  .touch .cd-nav-trigger, .touch #cd-vert-nav {
+  .touch .cd-nav-trigger,
+  .touch #cd-vert-nav {
     bottom: 40px; } }

@@ -1,15 +1,12 @@
 // rem fallback - credits: http://zerosixthree.se/
-
 @function calculateRem($size) {
-  $remSize: $size / 16px;
-  @return $remSize * 1rem;
+    $remSize: $size / 16px;
+    @return $remSize * 1rem;
 }
-
 @mixin font-size($size) {
-  font-size: $size;
-  font-size: calculateRem($size);
+    font-size: $size;
+    font-size: calculateRem($size);
 }
-
 @mixin center($xy:xy) {
     @if $xy == xy {
         left: 50%;
@@ -29,7 +26,6 @@
         @include transform(translateY(-50%));
     }
 }
-
 @mixin border-radius($radius:.25em) {
     border-radius: $radius;
 }
