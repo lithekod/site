@@ -55,18 +55,21 @@ Main Component
   min-height: 100%;
   position: relative;
   padding: 2em; }
+  .cd-section .centerer {
+    position: relative;
+    width: 90%; }
   .cd-section h1 {
+    text-align: center;
     color: #fff; }
   .cd-section:nth-of-type(even) {
     background-color: #3e3947; }
-    .cd-section:nth-of-type(even) p {
+    .cd-section:nth-of-type(even) p, .cd-section:nth-of-type(even) h4, .cd-section:nth-of-type(even) li {
       color: #898099; }
   .cd-section:nth-of-type(odd) {
     background-color: #745360; }
-    .cd-section:nth-of-type(odd) p {
+    .cd-section:nth-of-type(odd) p, .cd-section:nth-of-type(odd) h4, .cd-section:nth-of-type(odd) li {
       color: #bda3ad; }
-  .cd-section h1,
-  .cd-section p {
+  .cd-section h1 {
     position: absolute;
     left: 50%;
     top: 50%;
@@ -77,21 +80,49 @@ Main Component
     -ms-transform: translateX(-50%) translateY(-50%);
     -o-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    width: 90%;
-    text-align: center; }
+    width: 90%; }
+  .cd-section li {
+    line-height: 1.6;
+    list-style: disc;
+    margin-left: 3em; }
   .cd-section h1 {
     color: #fff;
     font-weight: 300;
     text-transform: uppercase;
     font-size: 40px;
     font-size: 2.5rem; }
-  .cd-section p {
+  .cd-section h2 {
+    color: #cccccc;
+    margin-top: 2em;
+    margin: 1em auto;
+    font-size: 30px;
+    font-size: 1.875rem; }
+  .cd-section p, .cd-section h4, .cd-section li {
+    margin: auto;
     line-height: 1.6; }
+  .cd-section h4 {
+    font-weight: bold;
+    margin: 1em auto;
+    font-size: 20px;
+    font-size: 1.25rem; }
   @media only screen and (min-width: 768px) {
+    .cd-section .centerer {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      bottom: auto;
+      right: auto;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      -moz-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
+      -o-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%); }
     .cd-section h1 {
       font-size: 70px;
       font-size: 4.375rem; }
-    .cd-section p {
+    .cd-section p, .cd-section h4, .cd-section li, .cd-section h2 {
+      width: 90%; }
+    .cd-section p, .cd-section li {
       font-size: 20px;
       font-size: 1.25rem;
       line-height: 2; } }

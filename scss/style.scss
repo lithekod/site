@@ -66,27 +66,37 @@ Main Component
     min-height: 100%;
     position: relative;
     padding: 2em;
+
+    .centerer {
+        position: relative;
+        width: 90%;
+    }
+
     h1 {
+        text-align: center;
         color: $color-4;
     }
     &:nth-of-type(even) {
         background-color: $color-1;
-        p {
+        p, h4, li {
             color: lighten($color-1, 30%);
         }
     }
     &:nth-of-type(odd) {
         background-color: $color-2;
-        p {
+        p, h4, li {
             color: lighten($color-2, 30%);
         }
     }
-    h1,
-    p {
+    h1 {
         position: absolute;
         @include center;
         width: 90%;
-        text-align: center;
+    }
+    li {
+        line-height: 1.6;
+        list-style: disc;
+        margin-left: 3em;
     }
     h1 {
         color: $color-4;
@@ -94,14 +104,35 @@ Main Component
         text-transform: uppercase;
         @include font-size(40px);
     }
-    p {
+    h2 {
+        color: darken($color-4, 20);
+        margin-top: 2em;
+        margin: 1em auto;
+        @include font-size(30px);
+    }
+    p, h4, li {
+        margin: auto;
         line-height: 1.6;
     }
+    h4 {
+        font-weight: bold;
+        margin: 1em auto;
+        @include font-size(20px);
+    }
     @include MQ(M) {
+
+        .centerer {
+            position: absolute;
+            @include center;
+        }
+
         h1 {
             @include font-size(70px);
         }
-        p {
+        p, h4, li, h2 {
+            width: 90%;
+        }
+        p, li {
             @include font-size(20px);
             line-height: 2;
         }
