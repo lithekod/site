@@ -79,13 +79,13 @@ Main Component
     &:nth-of-type(even) {
         background-color: $color-1;
         p, h4, li {
-            color: lighten($color-1, 30%);
+            color: darken($color-1, 10%);
         }
     }
     &:nth-of-type(odd) {
         background-color: $color-2;
         p, h4, li {
-            color: lighten($color-2, 30%);
+            color: darken($color-2, 10%);
         }
     }
     h1 {
@@ -105,7 +105,7 @@ Main Component
         @include font-size(40px);
     }
     h2 {
-        color: darken($color-4, 20);
+        color: saturate($color-4, 30%);
         margin-top: 2em;
         margin: 1em auto;
         @include font-size(30px);
