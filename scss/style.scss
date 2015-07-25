@@ -202,7 +202,7 @@ Main Component
     height: 52px;
     width: 52px;
     @include border-radius;
-    background: rgba($color-4, .9);
+    background: rgba($color-5, .95);
     span {
         position: absolute;
         height: 4px;
@@ -243,7 +243,7 @@ Main Component
     @include transition-property(transform);
     @include transition-duration(.2s);
     @include border-radius;
-    background-color: rgba($color-4, .9);
+    background-color: rgba($color-5, .95);
     a {
         display: block;
         padding: 1em;

@@ -209,7 +209,7 @@ Main Component
   height: 52px;
   width: 52px;
   border-radius: 0.25em;
-  background: rgba(230, 231, 219, 0.9); }
+  background: rgba(41, 55, 63, 0.95); }
   .touch .cd-nav-trigger span {
     position: absolute;
     height: 4px;
@@ -265,7 +265,7 @@ Main Component
   -moz-transition-duration: 0.2s;
   transition-duration: 0.2s;
   border-radius: 0.25em;
-  background-color: rgba(230, 231, 219, 0.9); }
+  background-color: rgba(41, 55, 63, 0.95); }
   .touch #cd-vert-nav a {
     display: block;
     padding: 1em;
