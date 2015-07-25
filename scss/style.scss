@@ -202,7 +202,7 @@ Main Component
     height: 52px;
     width: 52px;
     @include border-radius;
-    background: rgba($color-4, .9);
+    background: rgba($color-5, .95);
     span {
         position: absolute;
         height: 4px;
@@ -243,7 +243,7 @@ Main Component
     @include transition-property(transform);
     @include transition-duration(.2s);
     @include border-radius;
-    background-color: rgba($color-4, .9);
+    background-color: rgba($color-5, .95);
     a {
         display: block;
         padding: 1em;
@@ -289,4 +289,74 @@ Main Component
     .touch #cd-vert-nav {
         bottom: 40px;
     }
+}
+/*
+    Maps
+*/
+#google-container {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-color: $color-2;
+
+    @include MQ(M) {
+    	height: 300px;
+    }
+
+    @include MQ(L) {
+    	height: 600px;
+    }
+}
+
+#cd-google-map {
+	position: relative;
+
+	address {
+		position: absolute;
+		width: 100%;
+		bottom: 0;
+		left: 0;
+		padding: 1em 1em;
+		background-color: $color-2;
+		color: $color-4;
+		@include font-size(13px);
+
+		@include MQ(M) {
+			@include font-size(15px);
+			text-align: center;
+		}
+	}
+}
+
+#cd-zoom-in, #cd-zoom-out {
+	height: 32px;
+	width: 32px;
+	cursor: pointer;
+	margin-left: 10px;
+	background-color: rgba($color-1, .9);
+	background-repeat: no-repeat;
+	background-size: 32px 64px;
+	background-image: url('../images/cd-icon-controller.svg');
+
+	.no-touch &:hover {
+		background-color: rgba($color-1, 1);
+	}
+
+	@include MQ(M) {
+		margin-left: 50px;
+	}
+}
+
+#cd-zoom-in {
+	background-position: 50% 0;
+	margin-top: 10px;
+	margin-bottom: 1px;
+
+	@include MQ(M) {
+		margin-top: 50px;
+	}
+}
+
+#cd-zoom-out {
+	background-position: 50% -32px;
 }
