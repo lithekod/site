@@ -6,6 +6,8 @@
 // some custom mixins
 @import "../partials/_layout.scss";
 // media queries etc.
+@import "../partials/rotating-text.scss";
+// rotating text
 /* ---
 
 Primary styles
@@ -57,9 +59,9 @@ Main Component
 
 --- */
 #section1 {
-    min-height: 90% !important;
+    min-height: 100% !important;
     background-color: transparent !important;
-    background: url("../images/stardust.png") no-repeat center center fixed;
+    background: url("../images/screenshot.png") no-repeat center center;
     background-size: cover;
 }
 .cd-section {
@@ -72,10 +74,25 @@ Main Component
         width: 90%;
     }
 
-    h1 {
+    .hero {
+        position: absolute;
+        @include center;
+        width: 90%;
         text-align: center;
-        color: $color-4;
+
+        h1 {
+            color: $color-4;
+            font-weight: 300;
+            text-transform: uppercase;
+            @include font-size(80px);
+        }
+
+        h2 {
+            color: $color-4;
+            @include font-size(50px);
+        }
     }
+
     &:nth-of-type(even) {
         background-color: $color-1;
         p, h4, li {
@@ -88,21 +105,10 @@ Main Component
             color: darken($color-2, 10%);
         }
     }
-    h1 {
-        position: absolute;
-        @include center;
-        width: 90%;
-    }
     li {
         line-height: 1.6;
         list-style: disc;
         margin-left: 3em;
-    }
-    h1 {
-        color: $color-4;
-        font-weight: 300;
-        text-transform: uppercase;
-        @include font-size(40px);
     }
     h2 {
         color: saturate($color-4, 30%);
@@ -127,7 +133,7 @@ Main Component
         }
 
         h1 {
-            @include font-size(70px);
+            @include font-size(120px);
         }
         p, h4, li, h2 {
             width: 90%;
