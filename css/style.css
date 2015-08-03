@@ -119,18 +119,17 @@ Main Component
       font-size: 3.125rem; }
   .cd-section:nth-of-type(even) {
     background-color: #1ec6ba; }
-    .cd-section:nth-of-type(even) p, .cd-section:nth-of-type(even) h4, .cd-section:nth-of-type(even) li {
-      color: #179a90; }
+    .cd-section:nth-of-type(even) p, .cd-section:nth-of-type(even) h4, .cd-section:nth-of-type(even) li, .cd-section:nth-of-type(even) h2 {
+      color: #0a413d; }
   .cd-section:nth-of-type(odd) {
     background-color: #2c7d9b; }
-    .cd-section:nth-of-type(odd) p, .cd-section:nth-of-type(odd) h4, .cd-section:nth-of-type(odd) li {
-      color: #215d73; }
+    .cd-section:nth-of-type(odd) p, .cd-section:nth-of-type(odd) h4, .cd-section:nth-of-type(odd) li, .cd-section:nth-of-type(odd) h2 {
+      color: #0a1d24; }
   .cd-section li {
     line-height: 1.6;
     list-style: disc;
     margin-left: 3em; }
   .cd-section h2 {
-    color: #edf0d2;
     margin-top: 2em;
     margin: 1em auto;
     font-size: 30px;
