@@ -74,25 +74,6 @@ Main Component
         width: 90%;
     }
 
-    .hero {
-        position: absolute;
-        @include center;
-        width: 90%;
-        text-align: center;
-
-        h1 {
-            color: $color-4;
-            font-weight: 300;
-            text-transform: uppercase;
-            @include font-size(60px);
-        }
-
-        h2 {
-            color: $color-4;
-            @include font-size(50px);
-        }
-    }
-
     &:nth-of-type(even) {
         background-color: $color-1;
         p, h4, li, h2 {
@@ -295,6 +276,28 @@ Main Component
         bottom: 40px;
     }
 }
+/*
+    Hero
+*/
+.hero {
+    position: absolute;
+    @include center;
+    width: 90%;
+    text-align: center;
+
+    h1 {
+        color: $color-4;
+        font-weight: 300;
+        text-transform: uppercase;
+        @include font-size(60px);
+    }
+
+    h2 {
+        color: $color-4 !important;
+        @include font-size(50px);
+    }
+}
+
 /*
     Maps
 */

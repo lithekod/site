@@ -94,29 +94,6 @@ Main Component
   .cd-section .centerer {
     position: relative;
     width: 90%; }
-  .cd-section .hero {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    bottom: auto;
-    right: auto;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -o-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    width: 90%;
-    text-align: center; }
-    .cd-section .hero h1 {
-      color: #e6e7db;
-      font-weight: 300;
-      text-transform: uppercase;
-      font-size: 60px;
-      font-size: 3.75rem; }
-    .cd-section .hero h2 {
-      color: #e6e7db;
-      font-size: 50px;
-      font-size: 3.125rem; }
   .cd-section:nth-of-type(even) {
     background-color: #1ec6ba; }
     .cd-section:nth-of-type(even) p, .cd-section:nth-of-type(even) h4, .cd-section:nth-of-type(even) li, .cd-section:nth-of-type(even) h2 {
@@ -349,6 +326,33 @@ Main Component
   .touch .cd-nav-trigger,
   .touch #cd-vert-nav {
     bottom: 40px; } }
+/*
+    Hero
+*/
+.hero {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  bottom: auto;
+  right: auto;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  width: 90%;
+  text-align: center; }
+  .hero h1 {
+    color: #e6e7db;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-size: 3.75rem; }
+  .hero h2 {
+    color: #e6e7db !important;
+    font-size: 50px;
+    font-size: 3.125rem; }
+
 /*
     Maps
 */
