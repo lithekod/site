@@ -1,7 +1,3 @@
-@font-face {
-  font-family: Yarin;
-  src: url("../fonts/Yarin-Bold.ttf");
-  font-weight: bold; }
 /*  Rotating Text */
 .words-wrapper {
   display: inline-block;
@@ -88,7 +84,7 @@ Main Component
 #section1 {
   min-height: 100% !important;
   background-color: transparent !important;
-  background: url("../images/screenshot.png") no-repeat center center;
+  background: url("../images/screenshot.png") no-repeat top left;
   background-size: cover; }
 
 .cd-section {
@@ -115,8 +111,8 @@ Main Component
       color: #e6e7db;
       font-weight: 300;
       text-transform: uppercase;
-      font-size: 80px;
-      font-size: 5rem; }
+      font-size: 60px;
+      font-size: 3.75rem; }
     .cd-section .hero h2 {
       color: #e6e7db;
       font-size: 50px;
