@@ -285,11 +285,9 @@ Main Component
     width: 90%;
     text-align: center;
 
-    h1 {
-        color: $color-4;
-        font-weight: 300;
-        text-transform: uppercase;
-        @include font-size(60px);
+    img {
+        width: 100%;
+        max-width: 800px;
     }
 
     h2 {

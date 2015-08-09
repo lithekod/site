@@ -342,12 +342,9 @@ Main Component
   transform: translateX(-50%) translateY(-50%);
   width: 90%;
   text-align: center; }
-  .hero h1 {
-    color: #e6e7db;
-    font-weight: 300;
-    text-transform: uppercase;
-    font-size: 60px;
-    font-size: 3.75rem; }
+  .hero img {
+    width: 100%;
+    max-width: 800px; }
   .hero h2 {
     color: #e6e7db !important;
     font-size: 50px;
