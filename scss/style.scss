@@ -306,63 +306,63 @@ Main Component
     background-color: $color-2;
 
     @include MQ(M) {
-    	height: 300px;
+        height: 300px;
     }
 
     @include MQ(L) {
-    	height: 600px;
+        height: 600px;
     }
 }
 
 #cd-google-map {
-	position: relative;
+    position: relative;
 
-	address {
-		position: absolute;
-		width: 100%;
-		bottom: 0;
-		left: 0;
-		padding: 1em 1em;
-		background-color: $color-2;
-		color: $color-4;
-		@include font-size(13px);
+    address {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        padding: 1em 1em;
+        background-color: $color-2;
+        color: $color-4;
+        @include font-size(13px);
 
-		@include MQ(M) {
-			@include font-size(15px);
-			text-align: center;
-		}
-	}
+        @include MQ(M) {
+            @include font-size(15px);
+            text-align: center;
+        }
+    }
 }
 
 #cd-zoom-in, #cd-zoom-out {
-	height: 32px;
-	width: 32px;
-	cursor: pointer;
-	margin-left: 10px;
-	background-color: rgba($color-1, .9);
-	background-repeat: no-repeat;
-	background-size: 32px 64px;
-	background-image: url('../images/cd-icon-controller.svg');
+    height: 32px;
+    width: 32px;
+    cursor: pointer;
+    margin-left: 10px;
+    background-color: rgba($color-1, .9);
+    background-repeat: no-repeat;
+    background-size: 32px 64px;
+    background-image: url('../images/cd-icon-controller.svg');
 
-	.no-touch &:hover {
-		background-color: rgba($color-1, 1);
-	}
+    .no-touch &:hover {
+        background-color: rgba($color-1, 1);
+    }
 
-	@include MQ(M) {
-		margin-left: 50px;
-	}
+    @include MQ(M) {
+        margin-left: 50px;
+    }
 }
 
 #cd-zoom-in {
-	background-position: 50% 0;
-	margin-top: 10px;
-	margin-bottom: 1px;
+    background-position: 50% 0;
+    margin-top: 10px;
+    margin-bottom: 1px;
 
-	@include MQ(M) {
-		margin-top: 50px;
-	}
+    @include MQ(M) {
+        margin-top: 50px;
+    }
 }
 
 #cd-zoom-out {
-	background-position: 50% -32px;
+    background-position: 50% -32px;
 }
