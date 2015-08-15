@@ -1,2 +1,2 @@
-# LitheKod
-Prototype site for LitheKod organisation at LiU
+# LiTHe kod
+Prototype site for LiTHe kod organisation at LiU
