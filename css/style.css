@@ -408,3 +408,18 @@ Main Component
 
 #cd-zoom-out {
   background-position: 50% -32px; }
+
+/*
+    Footer
+*/
+footer {
+  padding: 3em 1em;
+  text-align: center;
+  background-color: #232222; }
+  footer li {
+    display: inline-block;
+    margin: 0 1em; }
+    footer li a {
+      color: #AAB6B5; }
+      footer li a:hover {
+        color: #1ec6ba; }
