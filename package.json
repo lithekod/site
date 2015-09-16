@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/holmgr/LitheKod/issues"
   },
-  "homepage": "https://github.com/holmgr/LitheKod#readme"
+  "homepage": "https://github.com/holmgr/LitheKod#readme",
+  "devDependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
 }
