@@ -242,8 +242,7 @@ Main Component
     -ms-transform: translateX(-50%) translateY(-50%);
     -o-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%); }
-    .touch .cd-nav-trigger span::before,
-    .touch .cd-nav-trigger span::after {
+    .touch .cd-nav-trigger span::before, .touch .cd-nav-trigger span::after {
       content: '';
       height: 100%;
       width: 100%;
