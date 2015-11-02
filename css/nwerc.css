@@ -272,12 +272,14 @@ html, body, .container, .header {
 /* -------------------------- */
 /* Faded gradient */
 /* -------------------------- */
-.intro-effect-fadeout .header {
-  overflow: hidden; }
-
 .intro-effect-fadeout.modify .bg-img {
   -webkit-transform: translateY(-25%);
-  transform: translateY(-25%); }
+  transform: translateY(-25%);
+  background: url("../images/screenshot.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
 
 .intro-effect-fadeout .bg-img::after {
   content: '';
@@ -286,13 +288,10 @@ html, body, .container, .header {
   height: 101%;
   top: 0;
   left: 0;
-  opacity: 0;
+  opacity: 1;
   pointer-events: none;
   background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, white 100%);
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, white 100%); }
-
-.intro-effect-fadeout.modify .bg-img::after {
-  opacity: 1; }
 
 .intro-effect-fadeout .title {
   text-align: left;
@@ -302,75 +301,15 @@ html, body, .container, .header {
 .intro-effect-fadeout .header p {
   color: #514753; }
 
-.intro-effect-fadeout .header p {
-  opacity: 0; }
-
-.intro-effect-fadeout .header p:nth-child(2) {
-  -webkit-transform: translateX(150px);
-  transform: translateX(150px); }
-
-.intro-effect-fadeout .header p:nth-child(3) {
-  -webkit-transform: translateX(-150px);
-  transform: translateX(-150px); }
-
-.intro-effect-fadeout.modify .header p:nth-child(2),
-.intro-effect-fadeout.modify .header p:nth-child(3) {
-  opacity: 1;
-  -webkit-transform: translateX(0);
-  transform: translateX(0); }
-
 .intro-effect-fadeout .content {
   z-index: 1000;
   position: relative; }
 
-.intro-effect-fadeout .content > div {
-  opacity: 0;
-  -webkit-transform: translateY(350px);
-  transform: translateY(350px); }
-
-.intro-effect-fadeout.modify .content > div {
-  opacity: 1;
-  -webkit-transform: translateY(0);
-  transform: translateY(0); }
-
 /* Media Queries */
 @media screen and (max-width: 47em) {
   .title, .content {
-    font-size: 70%; }
-  .codrops-demos a {
-    font-size: 80%; }
-  .intro-effect-side .title {
-    width: 100%;
-    padding: 0 1em;
-    -webkit-transform: translateY(-50%);
-    transform: translateY(-50%); }
-  .intro-effect-side.modify .bg-img::before {
-    -webkit-transform: translateX(-100%);
-    transform: translateX(-100%); }
-  .intro-effect-side .bg-img::after {
-    border-left-width: 0px;
-    border-right-width: 0px;
-    right: 0px;
-    left: 0px;
-    background: rgba(255, 255, 255, 0.1); }
-  .intro-effect-side.modify .bg-img::after {
-    background: rgba(255, 255, 255, 0.8); }
-  .intro-effect-sidefixed .content {
-    width: 100%;
-    margin-left: auto; }
-  .intro-effect-sidefixed .bg-img::after {
-    width: 95%; } }
+    font-size: 70%; } }
 
 @media screen and (max-width: 27em) {
-  .intro-effect-jam3 .content {
-    padding: 0 2em 5em; }
-  .intro-effect-grid .grid li h2 {
-    display: none; }
-  .intro-effect-push .header .title {
-    top: 60px;
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%); }
   .title, .content {
-    font-size: 50%; }
-  button.trigger::before {
-    display: none; } }
+    font-size: 50%; } }
