@@ -242,7 +242,8 @@ Main Component
     -ms-transform: translateX(-50%) translateY(-50%);
     -o-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%); }
-    .touch .cd-nav-trigger span::before, .touch .cd-nav-trigger span::after {
+    .touch .cd-nav-trigger span::before,
+    .touch .cd-nav-trigger span::after {
       content: '';
       height: 100%;
       width: 100%;
@@ -441,6 +442,23 @@ Main Component
 
 #cd-zoom-out {
   background-position: 50% -32px; }
+
+/*
+    Banner notice: For important information
+*/
+.banner-notice {
+  position: absolute;
+  z-index: 9999;
+  width: 100%;
+  text-align: center;
+  padding: 1em 0;
+  color: #29373F;
+  background-color: #1ec6ba; }
+  .banner-notice a {
+    margin: 1em 0;
+    display: inline-block;
+    text-decoration: underline;
+    color: #e6e7db; }
 
 /*
     Footer
