@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href='//fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="../css/nwerc.css">
+	<title>LiTHe kod och d-sektionens jubileumskommitté bjuder upp till hack!</title>
+</head>
+<body class="demo-2">
+	<div id="container" class="container intro-effect-fadeout modify">
+		<header class="header">
+			<div class="bg-img"></div>
+			<div class="title">
+				<h1>LiTHe kod och d-sektionens jubileumskommitté bjuder upp till hack!</h1>
+				<p class="subline">12e till 13e februari @ SU10-14</p>
+				<p>by <strong>Henning Nåbo</strong> &#8212; Posted on <strong>Februari 2, 2016</strong></p>
+			</div>
+		</header>
+		<article class="content">
+			<div>
+				<p>
+					12-13 Februari håller LiTHe kod och d-sektionen i ett 18 timmars hackaton. 
+					Var med och tävla om fina priser i något av våra sponsorers cases och visa vad ni går för.
+					<br><br>
+					Som alla LiTHe kods aktiviteter är hacket öppet för alla studenter, oavsett sektion eller fakultet.
+					Deltagare bjuds på mat och fika under natten och självklart är allt gratis!
+				</p>
+				<h3>Plats</h3>
+				<p>
+					Hacket är i SU10-14 i B-huset med fika och umgänge i von Neumann.
+				</p>
+				<h3>Tider</h3>
+				<p>
+					Hacket börjar 12 februari 18:00 med pizza i von Neumann.
+					Företagsrepresentanter kommer att vara på plats för att diskutera cases.
+					<br><br>
+					Hacket stänger 13 februari 12:00.
+					<br><br>
+					Redovisning sker 12:00 - 13:00
+				</p>
+
+				<h3>Prisutdelning</h3>
+				<p>
+					Prisutdelning sker under jubileumsveckans finsittning 13 februari så se till att fixa biljetter.
+
+					Har du inte biljett eller kan inte komma? 
+					Hör av dig till: verks@lithekod.se så meddelar vi dig om resultatet.
+				</p>
+				<ul>
+					<li>Plats: Kårhuset Kollektivet</li>
+					<li>Tid: Fördrink kl 18.30</li>
+					<li>Klädkod: Långklänning/Mörk kostym</li>
+					<li>Pris: 200 kr</li>
+				</ul>
+
+				<h3>Regler</h3>
+				<ul>
+					<li>Ett lag består av 2-4 personer.</li>
+					<li>Inget skrivet arbete får vara gjort innan hacket börjar.</li>
+					<li>Ett lag tävlar i ett case. (Det går dock bra att byta case)</li>
+					<li>Företagen, med hjälp av LiTHe kod, bestämmer vinnare för respektive case.</li>
+				</ul>
+					Biljetter säljs i Alten under lunch 2-3 februari.
+
+					Är du ute sent? Kontakta festgeneral@d.lintek.liu.se
+				</p>
+				<h3>Registrering</h3>
+				<p>
+					<b>Obs! Endast en registrering per lag.</b>
+					Ett lag består av 2-4 personer.
+					<br><br>
+					Registrering sker <a href="https://docs.google.com/forms/d/11jIZ_jHVFbM_uzySOp2NE_HPgAYZ6lqfiGl6ewrnuyA/viewform?usp=send_form">här</a>
+
+					<br><br>
+					Vid förändringar av registrering, kontakta verks(at)lithekod(punkt)se.
+					<b>Registreringen stänger 9 februari kl 12.</b>
+				</p>
+				<h3>Cases</h3>
+				<h4>Case 1: Configura</h4>
+				<h5>AI: Space planning</h5>
+				Skriv en algoritm som inreder ett rum med ett antal givna möbler på bästa sätt.
+  
+				<h5>Förutsättningar</h5>
+				<ul>
+					<li>Rum 5x5 meter</li>
+					<li>1 st dörr 90cm bred (slumpmässigt placerad)</li>
+					<li>2 st fönster 1m breda (slumpmässigt placerade)</li>
+				</ul>
+				<h5>6-10 st utvalda möbler av följande:</h5>
+				<ul>
+					<li>0-2 st Säng  			90x200</li>
+					<li>0-2 st Soffa			80x250</li>
+					<li>0-3 st Skrivbord		70x150</li>
+					<li>0-3 st Skrivbordsstol	60x60</li>
+					<li>0-1 st Vägg-TV          3x80</li>
+					<li>0-2 st Soffbord			50x80</li>
+					<li>0-2 st Matta			150x200</li>
+					<li>0-2 st Bokhylla			40x100</li>
+				</ul>
+				<h5>Input</h5>
+				<p>
+					Textfil med placering av dörr/fönster (format "namn[tab]koordinater i cm") samt lista över möbler, 1 möbel per rad (format: "namn[tab]storlek i cm")
+				</p>
+				<pre>
+					<code>
+Namn             	(x1,y1,x2,y2)
+	Dörr            100,500,190,500
+	Fönster         100,0,200,0
+	Fönster         300,0,400,0
+
+Namn             	Storlek
+	Säng            90x200
+	Skrivbord       70x150
+	Skrivbordsstol	60x60
+					</code>
+				</pre>
+				<h5>Output</h5>
+				<p>
+					Output i något av följande format:
+					<br><br>
+					1. Textfil med möbelnamn + koordinater, 1 rad per möbel. (format: "namn[tab]koordinater i cm")
+					<br><br>
+					Ex.
+				</p>
+				<pre>
+					<code>
+Namn             (x1,y1,x2,y2)
+Säng             10,0,100,200
+Soffbord         200,150,250,330
+					</code>
+				</pre>
+				<p>
+					2. Grafisk representation.
+					<br><br>
+					Valfri snygg grafisk representation i 2D eller 3D
+				</p>
+				<h3>Case 2: Skill</h3>
+				<h4>Case – Gör rekryteringsprocessen rolig och tydlig genom ett spel</h4>
+				<p>
+					Att söka jobb är kan vara en lång process med många olika steg. 
+					Lagets uppgift är att utveckla ett spel som visualiserar hela eller delar av rekryteringsprocessen utifrån en jobbsökares perspektiv. 
+				</p>
+				<h5>Rekryteringsprocessens olika steg</h5>
+				<h6>Annonsering</h6>
+				<p>
+					Alla våra lediga tjänster finns på <http://www.skill.se> men sprids även till andra kanaler så som Arbetsförmedlningen, Careerbuilder, Twitter med mera.
+				</p>
+				<h6>Ansökan</h6>
+				<p>
+					Du har hittat drömjobbet! 
+					Nu är det dags att skriva din ansökan som består av ett CV och personligt brev. 
+					När du har CV och personligt brev på plats söker du jobbet genom vår hemsida där det finns möjlighet att ladda upp ditt CV till vår CV-databas. 
+				</p>
+				<h6>Urval</h6>
+				<p>
+					Första steget i urvalsprocessen är oftast en telefonintervju. 
+					Går den bra blir du inbjuden på en personlig intervju hos oss. 
+					Därefter följer referenstagning och i vissa fall personlighets- eller kunskapstest. 
+				</p>
+				<h6>Praktisk info</h6>
+				<p>
+					Spelet ska publiceras på webben och vara spelbart via valfri browser. 
+					Som huvudfärg i visualiseringen ska Cyanblått (#009fe3, 0,159,227) eller Grått (#4a4a49, 74,74,73) användas.
+					<br><br>
+					Våra servrar har stöd för PHP. Men det går även att producera spelet på egen server och på valfritt språk.
+				</p>
+				<h5>Nice to haves</h5>
+				<ul>
+					<li>Möjligheten att tävla genom att samla poäng.</li>
+					<li>En High-score lista</li>
+					<li>Dela sina resultat i sociala medier</li>
+					<li>Responsiv design</li>
+				</ul>
+				<h6>Bedömning</h6>
+				<p>
+					I vår bedömning kollar vi på följande
+				</p>
+				<ul>
+					<li>Kreativitet</li>
+					<li>Användarvänlighet</li>
+					<li>Pedagogik</li>
+				</ul>
+				<h3>Case 3: TBD</h3>
+				<p>
+					Mer om detta case kommer senare. 
+					Gilla LiTHe kod på facebook för att hålla dig uppdaterad.
+				</p>
+			</div>
+		</article>
+	</div><!-- /container -->
+</body>
+</html>
