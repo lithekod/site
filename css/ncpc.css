@@ -156,6 +156,9 @@ body {
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden; }
 
+img {
+  max-width: 100%; }
+
 a {
   outline: none;
   color: #cf4a5c;
