@@ -181,6 +181,19 @@ body {
 html, body, .container, .header {
   height: 100%; }
 
+/* Banner */
+.banner {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  font-weight: bold;
+  color: #eee;
+  background-color: #cf4a5c;
+  text-align: center; }
+  .banner a {
+    color: #eee;
+    text-decoration: underline; }
+
 /* Header */
 .header {
   position: relative;
@@ -289,9 +302,9 @@ html, body, .container, .header {
 
 /* Media Queries */
 @media screen and (max-width: 47em) {
-  .title, .content {
+  .title, .content, .banner {
     font-size: 70%; } }
 
 @media screen and (max-width: 27em) {
-  .title, .content {
+  .title, .content, .banner {
     font-size: 50%; } }
