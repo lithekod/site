@@ -201,6 +201,15 @@ html, body, .container, .header {
   min-height: 560px;
   width: 100%; }
 
+table {
+  margin: 2em 0; }
+  table th {
+    text-align: left; }
+  table td, table th {
+    padding: 0.5em; }
+  table tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.05); }
+
 .bg-img {
   position: absolute;
   overflow: hidden;

@@ -72,6 +72,23 @@ html, body, .container, .header {
 	width: 100%;
 }
 
+table {
+
+	margin: 2em 0;
+
+	th {
+		text-align: left;
+	}
+
+	td, th {
+		padding: 0.5em;
+	}
+
+	tr:nth-child(even) {
+		background-color: rgba(0, 0, 0, 0.05);
+	}
+}
+
 .bg-img {
 	position: absolute;
 	overflow: hidden;
