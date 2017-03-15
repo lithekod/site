@@ -477,6 +477,21 @@ a.pagination-item:hover {
   color: #f4bf75;
 }
 
+/* LiTHe kod */
+.theme-lithe-kod .sidebar,
+.theme-lithe-kod .sidebar-toggle:active,
+.theme-lithe-kod #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #1ec6ba;
+}
+.theme-lithe-kod .sidebar-item {
+  background-color: #232222;
+}
+.theme-lithe-kod .container a,
+.theme-lithe-kod .sidebar-toggle,
+.theme-lithe-kod .related-posts li a:hover {
+  color: #1ec6ba;
+}
+
 /* Green */
 .theme-base-0b .sidebar,
 .theme-base-0b .sidebar-toggle:active,
