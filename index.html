@@ -1,189 +1,38 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
+---
+layout: default
+title: Home
+---
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href='//fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
-    <script async type="text/javascript" src="js/min/modernizr-min.js"></script>
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/style.css">
-    <title>LiTHe kod</title>
-</head>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}/{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-<body>
-    <nav id="cd-vert-nav">
-        <ul>
-            <li>
-                <a href="#section1" data-number="1">
-                    <span class="cd-dot"></span>
-                    <span class="cd-label">Start</span>
-                </a>
-            </li>
-            <li>
-                <a href="#section2" data-number="2">
-                    <span class="cd-dot"></span>
-                    <span class="cd-label">Kodstugor</span>
-                </a>
-            </li>
-            <li>
-                <a href="#section3" data-number="3">
-                    <span class="cd-dot"></span>
-                    <span class="cd-label">Verksamhetsgrupp</span>
-                </a>
-            </li>
-            <li>
-                <a href="#section4" data-number="4">
-                    <span class="cd-dot"></span>
-                    <span class="cd-label">Kontakt</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <a class="cd-nav-trigger cd-img-replace">Open navigation<span></span></a>
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-    <section id="section1" class="cd-section">
-        <div class="hero">
-            <img src="images/logo.svg">
-            <h2 class="headline clip is-full-width">
-                <span>We &#9829;</span>
-                <br>
-                <span class="words-wrapper">
-                    <b class="is-visible">Haskell</b>
-                    <b>Go</b>
-                    <b>Open Source</b>
-                    <b>JSON</b>
-                    <b>Git</b>
-                    <b>Coffee</b>
-                    <b>Python</b>
-                    <b>Swift</b>
-                    <b>Vim</b>
-                    <b>C/C++</b>
-                    <b>Emacs</b>
-                    <b>Unix</b>
-                    <b>Dotfiles</b>
-                    <b>NoSQL</b>
-                    <b>Lisp</b>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
 
-                </span>
-            </h2>
-        </div>
-    </section>
-    <!-- cd-section -->
-
-    <section id="section2" class="cd-section">
-        <div class="centerer">
-            <h2>Kodstugor</h2>
-            <p>
-                LiTHe kod är en förening för alla som vill programmera. Varje vecka anordnar vi en kodstuga dit du kan komma och programmera. Det finns alltid en labbassistent på plats och oftast finns det även ett gäng glada studenter som gärna hjälper till.
-            </p>
-            <h4>På dina villkor</h4>
-            <p>
-              Du är välkommen att programmera vad du vill i vilket språk du vill med hur många du vill. Vi erbjuder en Slack grupp till alla våra medlemmar där man kan hänga och snacka lite kod men även annat.
-            </p>
-            <h4>Inga förkunskaper?</h4>
-            <p>
-                Inga problem. Vi hjälper dig komma igång med ett språk som passar dig.
-            </p>
-        </div>
-    </section>
-    <!-- cd-section -->
-
-    <section id="section3" class="cd-section">
-        <div class="centerer">
-            <h2>
-                Bli medlem
-            </h2>
-            <p>
-                Vill du bli medlem? Sätt in 20 kr på bankgiro: 450-4866 och skicka ett mail till kassor@lithekod.se. Märk betalningen med ditt LIU id
-            </p>
-        </div>
-    </section>
-    <!-- cd-section -->
-    <section class="cd-section-small">
-        <h2>När är nästa event?</h2>
-        <p>Lägg till vår kalender så missar du inget!</p>
-        <a class='calendar-button' href="http://www.google.com/calendar/render?cid=https://www.google.com/calendar/ical/lithekod.se_fa4msgl7qpmsdns5oc4fq48ago%40group.calendar.google.com/public/basic.ics">Lägg till Google cal</a>
-        <p>Eller kopiera länken nedan och för in i ditt kalenderprogram!</p>
-        <a href="http://bit.ly/1iUrgxN">http://bit.ly/1iUrgxN</a>
-    </section>
-
-    <section id="section4" class="cd-section">
-        <div class="centerer">
-            <h2>
-                Kontakt
-            </h2>
-            <p>
-                Har du någon fråga? Tveka inte att kontakta oss. Vi nås dels på Facebook, men framförallt i vår Slack grupp!
-            </p>
-            <p>
-                Om du vill gå med i Slack gruppen så är det bara att göra det på <a href="https://lithe-kod.slack.com/signup">https://lithe-kod.slack.com/signup</a>. Se till att du använder din LiU-mejladress.
-            </p>
-            <h4>
-                Mail
-            </h4>
-
-            <ul>
-                <li>
-                    Ordförande: ordf@lithekod.se, Christoffer Sjöbergsson (chrsj812)
-                </li>
-                <li>
-                    Vice ordförande: vordf@lithekod.se, Amanda Brodell (amabr104)
-                </li>
-                <li>
-                    Kassör: kassor@lithekod.se, Frans Skarman (fransk812)
-                </li>
-                <li>
-                    Verksamhetsledare: verks@lithekod.se, Dennis Lundberg (denlu809)
-                </li>
-                <li>
-                    PR/Webb: pr@lithekod.se, Viktor Holmgren (vikho394)
-                </li>
-            </ul>
-
-            <h4>
-                Offline
-            </h4>
-            <p>
-                Prata med någon av oss på nästa kodstuga. Vi bits inte.
-            </p>
-            <h4>
-                Postadress
-            </h4>
-            <p>
-                LiTHe kod Kårallen, Universitetet 581 83 Linköping
-            </p>
-        </div>
-    </section>
-    <!-- cd-section -->
-
-    <section id="cd-google-map">
-        <!-- #google-container will contain the map  -->
-        <div id="google-container"></div>
-        <!-- #cd-zoom-in and #zoom-out will be used to create our custom buttons for zooming-in/out -->
-        <div id="cd-zoom-in"></div>
-        <div id="cd-zoom-out"></div>
-    </section>
-    <!-- cd-section -->
-
-    <footer>
-        <div class="centerer">
-            <ul>
-                <li><a href="stadgar.pdf">Stadgar</a></li>
-                <li><a href="https://github.com/lithekod/protocols">Protokoll</a></li>
-            </ul>
-        </div>
-    </footer>
-
-    <script src="js/min/jquery-min.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/min/navigation-min.js"></script>
-    <script type="text/javascript" src="js/rotating-text.js"></script>
-    <!-- Needs jquery -->
-
-    <script src="//maps.gstatic.com/maps-api-v3/api/js/21/3/main.js"></script>
-    <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAlmo81EH2fCqrNlVqNGUV1-bQQwK9MwO8"></script>
-    <script src="js/maps.js"></script>
-</body>
-
-</html>
