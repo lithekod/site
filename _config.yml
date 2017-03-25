@@ -19,5 +19,6 @@ author:
 
 # Custom vars
 version:            1.0.0
+protocols:          "https://github.com/lithekod/protocols"
 
 gems: [jekyll-paginate]
