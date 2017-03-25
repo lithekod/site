@@ -2,7 +2,10 @@
 layout: page
 ---
 
-# LiTHe kod
+<img class="img--is-100vw-wide" src="/public/spotify2016-2.jpg">
+
+## Vilka är vi?
+
 LiTHe kod är en studentförening vid Linköpings Universitet vars syfte är att främja och inspirera intresset för programmering, mjukvaruutveckling och allt som hör till.
 
 Vi grundades hösten 2013 för att anordna kodstugor där studenter kunde träffas, prata och hjälpa varandra med allt kodrelaterat.
@@ -17,3 +20,5 @@ Kanske du vill lära dig mer om hur versionshantering i Git fungerar, kanske du 
 LiTHe kod är en knytpunkt där många av de vassaste och mest engagerade data/IT studenterna vid Linköpings Universitet ingår.
 
 Genom att samarbeta med oss och anordna aktiviteter så får ni ett utmärkt tillfälle att träffa dessa studenter och skapa ett intresse för er som framtida arbetsgivare.
+
+<img class="img--is-100vw-wide" src="/public/spotify2016-1.jpg">
