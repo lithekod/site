@@ -1,7 +1,7 @@
 # Permalinks
 permalink:          /:title
 paginate:           5
-paginate_path:      "page:num"
+paginate_path:      "/posts/page:num"
 
 # Setup
 title:              LiTHe kod
