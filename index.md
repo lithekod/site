@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img class="img--is-100vw-wide" src="/public/spotify2016-2.jpg">
+<img class="img--is-100vw-wide" src="{{ site.baseurl }}/public/spotify2016-2.jpg">
 
 ## Vilka är vi?
 
@@ -21,4 +21,4 @@ LiTHe kod är en knytpunkt där många av de vassaste och mest engagerade data/I
 
 Genom att samarbeta med oss och anordna aktiviteter så får ni ett utmärkt tillfälle att träffa dessa studenter och skapa ett intresse för er som framtida arbetsgivare.
 
-<img class="img--is-100vw-wide" src="/public/spotify2016-1.jpg">
+<img class="img--is-100vw-wide" src="{{ site.baseurl }}/public/spotify2016-1.jpg">

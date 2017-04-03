@@ -6,7 +6,6 @@ paginate_path:      "/posts/page:num"
 # Setup
 title:              LiTHe kod
 tagline:            ''
-description:        '<img src="/public/logo.png"/>'
 url:                http://lithekod.se
 baseurl:            ''
 paginate:           5
