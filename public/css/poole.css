@@ -239,7 +239,8 @@ img {
   height: auto;
   position: relative;
   left: -1em;
-  margin: 2rem 0;
+  margin: 0;
+  margin-bottom: 2rem;
   max-width: none;
   border-radius: 0px;
 
@@ -261,8 +262,8 @@ img {
 
 @media (min-width: 56em) {
   .img--is-100vw-wide {
-    width: 80vw;
-    left: calc((-80vw + 36rem) / 2);
+    width: 75vw;
+    left: calc((-75vw + 36rem) / 2);
   }
 }
 
