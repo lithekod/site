@@ -1,14 +1,13 @@
-# LiTHe kod
-Prototype site for LiTHe kod organisation at LiU
+# LiTHe kod website
 
-## Development
+This is the public repo for the LiTHe kod website.
+It is build on top of [Lanyon](https://github.com/poole/lanyon) a Jekyll based project.
 
-### Install dependencies
-```
-npm install
-```
+## Original project: Lanyon
 
-### Start development server (BrowserSync)
-```
-gulp serve
-```
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
+
+Open sourced under the [MIT license](LICENSE.md).
+
