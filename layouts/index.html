@@ -1,30 +1,36 @@
 {{ partial "default_head.html" . }}
 
-<!-- Space delimited list of page types -->
-{{ $paginator := .Paginate (where .Data.Pages "Type" "in" "post") }}
+<div>
+<img class="img--is-100vw-wide" src="/assets/spotify2016-2.jpg">
 
-<div class="posts">
-  {{ range .Paginator.Pages }}
-    <div class="post">
-        <h1 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-        <span class="post-date">{{ .Date.Format .Site.Params.DateForm }}</span>
-        {{ .Content }}
-    </div>
-  {{ end }}
-</div>
+<h2>Vilka är vi?</h2>
 
-<div class="pagination">
-  {{ if $paginator.HasNext }}
-  <a class="pagination-item older" href="{{ $paginator.Next.URL }}">Older</a>
-  {{ else }}
-  <span class="pagination-item older">Older</span>
-  {{ end }}
+<p>
+LiTHe kod är en studentförening vid Linköpings Universitet vars syfte är att främja och inspirera intresset för programmering, mjukvaruutveckling och allt som hör till.
+</p>
 
-  {{ if $paginator.HasPrev }}
-  <a class="pagination-item newer" href="{{ $paginator.Prev.URL }}">Newer</a>
-  {{ else }}
-  <span class="pagination-item newer">Newer</span>
-  {{ end }}
+<p>
+Vi grundades hösten 2013 för att anordna kodstugor där studenter kunde träffas, prata och hjälpa varandra med allt kodrelaterat.
+Vi har sedan dess fortsatt att utvecklas och arrangerar idag en rad olika typer av aktiviteter såsom studiebesök, workshops, föreläsningar, Game-Jams, programmeringstävlingar och såklart kodstugor.
+</p>
+
+<h2>Är du student?</h2>
+<p>
+Tokfint! Det är nämligen just dig som vi jobbar för. För oavsett dina kunskaper så finns det alltid någon aktivitet för just dig och dina intressen inom programmering.
+</p>
+
+<p>
+Kanske du vill lära dig mer om hur versionshantering i Git fungerar, kanske du vill höra om hur det är att jobba på Spotify eller bara träffa nya människor med samma intressen som dig!
+</p>
+
+<h2>Är du företagare?</h2>
+<p>
+LiTHe kod är en knytpunkt där många av de vassaste och mest engagerade data/IT studenterna vid Linköpings Universitet ingår.
+</p>
+
+<p>
+Genom att samarbeta med oss och anordna aktiviteter så får ni ett utmärkt tillfälle att träffa dessa studenter och skapa ett intresse för er som framtida arbetsgivare.
+</p>
 </div>
 
 {{ partial "default_foot.html" . }}
