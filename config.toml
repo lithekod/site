@@ -1,0 +1,19 @@
+title               =       "LiTHe kod"
+tagline             =       "A Jekyll theme"
+author              =       "LiTHe kod"
+dateForm            =       "Jan 2 2006"
+baseURL             =       "http://lithekod.se/"
+
+# Enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+canonifyURLs        =       true
+pygmentsuseclasses  =       true
+
+[permalinks]
+  post              =       ":year/:month/:day/:title/"
+  fixed             =       ":title/"
+
+[params]
+  title             =       "LiTHe kod"
+  tagline           =       "En programmeringsförening för alla"
+  author            =       "LiTHe kod"
+  dateForm          =       "Jan 2 2006"
