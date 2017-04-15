@@ -1,7 +1,3 @@
-title               =       "LiTHe kod"
-tagline             =       "A Jekyll theme"
-author              =       "LiTHe kod"
-dateForm            =       "Jan 2 2006"
 baseURL             =       "http://lithekod.se/"
 
 # Enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
@@ -17,3 +13,6 @@ pygmentsuseclasses  =       true
   tagline           =       "En programmeringsförening för alla"
   author            =       "LiTHe kod"
   dateForm          =       "Jan 2 2006"
+  github            =       "http://github.com/lithekod"
+  protocols         =       "https://github.com/lithekod/protocols"
+  byelaws           =       "https://drive.google.com/file/d/0B7-h8_ZZQL3uMjEtNzVQOUlVcGc/view?usp=sharing"
