@@ -10,10 +10,9 @@ Om du inte redan är med i Slack gruppen så kan du göra det via följande [lä
 
 ## Mejl
 * Ordförande: [ordf@lithekod.se](ordf@lithekod.se), Christoffer Sjöbergsson (chrsj812)
-* Vice ordförande: [vordf@lithekod.se](vordf@lithekod.se), Amanda Brodell (amabr104)
-* Kassör: [kassor@lithekod.se](kassor@lithekod.se), Frans Skarman (fransk812)
-* Verksamhetsledare: [verks@lithekod.se](verks@lithekod.se), Dennis Lundberg (denlu809)
-* PR/Webb: [pr@lithekod.se](pr@lithekod.se), Viktor Holmgren (vikho394)
+* Vice ordförande: [vordf@lithekod.se](vordf@lithekod.se), Emil Segerbäck (emise935)
+* Kassör: [kassor@lithekod.se](kassor@lithekod.se), Robin Sliwa (robsl733)
+* Verksamhetsledare: [verks@lithekod.se](verks@lithekod.se), Viktor Holmgren (vikho394)
 
 ## Postadress
 LiTHe kod Kårallen, Universitetet 581 83 Linköping
