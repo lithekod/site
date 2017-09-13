@@ -1,4 +1,5 @@
-public
+public/
+package-lock.json
 # Ignore docs files
 _gh_pages
 _site
