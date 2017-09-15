@@ -17,6 +17,7 @@ För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no
 ![Ida Infront logo](/assets/idainfront_logo.jpg)
 ![Opera logo](/assets/opera_logo.png)
 ![Autoliv logo](/assets/autoliv_logo.png)
+![Sectra logo](/assets/sectra_logo.jpg)
 
 [Registreringen](https://icpc.baylor.edu/regionals/finder/nordic-2017) är öppen till **5:e Oktober**.
 Listan med [anmälda lag](https://icpc.baylor.edu/regionals/finder/nordic-2017/teams).
