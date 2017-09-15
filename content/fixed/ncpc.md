@@ -4,7 +4,7 @@ sidebar = true
 weight = 1
 +++
 
-> For information in English see [NCPC 2016](https://ncpc.idi.ntnu.no/ncpc2016).
+> For information in English see [NCPC 2017](https://ncpc.idi.ntnu.no/ncpc2017).
 
 ![ACM logo](/assets/acm.gif)
 
