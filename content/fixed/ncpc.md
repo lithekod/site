@@ -50,6 +50,7 @@ Har du frågor kontakta LiTHe kod på [ncpc@lithekod.se](mailto:ncpc@lithekod.se
   * [Ida Infront](http://www.idainfront.se)
   * [Opera Software](http://www.operasoftware.com)
   * [Autoliv](https://www.autoliv.com/)
+  * [Sectra] (https://www.sectra.com/)
 
 ### IDA Mästerskap i Programmering
 
