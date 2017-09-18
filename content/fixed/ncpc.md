@@ -70,15 +70,15 @@ Tävlingen är perfekt träning för dig som vill öva inför SM.
 ### Tävlingslokal
 TBD (IDA datorsal i B-huset)
 
-### Schema lördag 8 oktober 2016
+### Schema lördag 8 oktober 2016 (OBS: preliminärt!)
 
 | Aktivitet   | Tid  |
 |---|---|
-| Introduktion samt presentation från sponsorer i [Visionen](http://www.ida.liu.se/department/location/search.en.shtml?keyword=visionen) - KOM I TID  | 10.00 |
+| Introduktion samt presentation från sponsorer i [Ada Lovelace (f.d. Visionen)](http://www.ida.liu.se/department/location/search.en.shtml?keyword=ada+lovelace) - KOM I TID | 10.00 |
 | Datortest (lagen får bekanta sig med datorutrustningen)                                                                                             | 10.30 |
 | Tävlingsstart                                                                                                                                       | 11.00 |
 | Tävlingen slut                                                                                                                                      | 16.00 |
-| Eftersnack och offentliggörande av resultatet i [Visionen](http://www.ida.liu.se/department/location/search.en.shtml?keyword=visionen)              | 16.30 |
+| Eftersnack och offentliggörande av resultatet i [Ada Lovelace (f.d. Visionen)](http://www.ida.liu.se/department/location/search.en.shtml?keyword=ada+lovelace)              | 16.30 |
 
 ## Exempeluppgifter
 
