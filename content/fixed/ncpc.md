@@ -70,7 +70,7 @@ Tävlingen är perfekt träning för dig som vill öva inför SM.
 ### Tävlingslokal
 TBD (IDA datorsal i B-huset)
 
-### Schema lördag 8 oktober 2016 (OBS: preliminärt!)
+### Schema lördag 8 oktober 2017 (OBS: preliminärt!)
 
 | Aktivitet   | Tid  |
 |---|---|
