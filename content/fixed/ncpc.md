@@ -16,7 +16,6 @@ För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no
 ![Ericsson logo](/assets/ericsson_logo.png)
 ![Ida Infront logo](/assets/idainfront_logo.jpg)
 ![Opera logo](/assets/opera_logo.png)
-![Autoliv logo](/assets/autoliv_logo.png)
 ![Sectra logo](/assets/sectra_logo.jpg)
 
 [Registreringen](https://icpc.baylor.edu/regionals/finder/nordic-2017) är öppen till **5:e Oktober**.
@@ -49,8 +48,7 @@ Har du frågor kontakta LiTHe kod på [ncpc@lithekod.se](mailto:ncpc@lithekod.se
   * [Ericsson](http://www.ericsson.com)
   * [Ida Infront](http://www.idainfront.se)
   * [Opera Software](http://www.operasoftware.com)
-  * [Autoliv](https://www.autoliv.com/)
-  * [Sectra] (https://www.sectra.com/)
+  * [Sectra](https://www.sectra.com/)
 
 ### IDA Mästerskap i Programmering
 
