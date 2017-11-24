@@ -40,6 +40,10 @@
   </url>
   
   <url>
+    <loc>http://lithekod.se/</loc>
+  </url>
+  
+  <url>
     <loc>http://lithekod.se/categories/</loc>
     <priority>0</priority>
   </url>
