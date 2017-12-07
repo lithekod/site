@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://lithekod.se/advent-of-code/</loc>
+  </url>
+  
+  <url>
     <loc>http://lithekod.se/kontakt/</loc>
   </url>
   
