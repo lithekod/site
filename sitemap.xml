@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://lithekod.se/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/ncpc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/opera/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/sectra/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/2017/05/25/storm%C3%B6tet-2017/</loc>
+    <lastmod>2017-05-25T20:48:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/2017/04/24/storm%C3%B6te/</loc>
+    <lastmod>2017-04-24T21:22:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/2016/11/29/kodstuga-med-opera/</loc>
+    <lastmod>2016-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/2016/08/05/ncpc-2016/</loc>
+    <lastmod>2016-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/2015/11/02/nwerc-2015/</loc>
+    <lastmod>2015-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/fixed/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/</loc>
+    <lastmod>2017-05-25T20:48:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/post/</loc>
+    <lastmod>2017-05-25T20:48:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
