@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>http://lithekod.se/challenge/</loc>
+  </url>
+  
+  <url>
     <loc>http://lithekod.se/kontakt/</loc>
   </url>
   
@@ -48,18 +52,18 @@
   </url>
   
   <url>
+    <loc>http://lithekod.se/</loc>
+    <lastmod>2017-05-25T20:48:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lithekod.se/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lithekod.se/fixed/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://lithekod.se/</loc>
-    <lastmod>2017-05-25T20:48:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
