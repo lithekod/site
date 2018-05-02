@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://lithekod.se/storm%C3%B6te/</loc>
+    <lastmod>2018-05-02T22:25:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lithekod.se/advent-of-code/</loc>
   </url>
   
@@ -53,7 +58,7 @@
   
   <url>
     <loc>http://lithekod.se/</loc>
-    <lastmod>2017-05-25T20:48:03+02:00</lastmod>
+    <lastmod>2018-05-02T22:25:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,6 +69,7 @@
   
   <url>
     <loc>http://lithekod.se/fixed/</loc>
+    <lastmod>2018-05-02T22:25:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   

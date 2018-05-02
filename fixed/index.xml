@@ -5,9 +5,24 @@
     <link>http://lithekod.se/fixed/</link>
     <description>Recent content in Fixeds on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 May 2018 22:25:03 +0200</lastBuildDate>
     
 	<atom:link href="http://lithekod.se/fixed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stormöte</title>
+      <link>http://lithekod.se/storm%C3%B6te/</link>
+      <pubDate>Wed, 02 May 2018 22:25:03 +0200</pubDate>
+      
+      <guid>http://lithekod.se/storm%C3%B6te/</guid>
+      <description>Hej! Nu är det snart dags för LiTHe kods stormöte.
+Datum: 29 maj 17:15
+Plats: kommer senare
+Motioner skickas till denna mail senast 15 maj.
+På mötet kommer det att bjudas på något att äta. Därför vill vi gärna att ni fyller i detta formulär om ni tänker komma. Vill ni nominera er själva eller någon annan till en post så fyll i detta formulär.
+En preliminär dagordning finns här.</description>
+    </item>
     
     <item>
       <title>Advent of code</title>
