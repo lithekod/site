@@ -12,7 +12,7 @@ Nu är det snart dags för LiTHe kods stormöte.
 
 **Plats:** kommer senare
 
-Motioner skickas till denna mail senast 15 maj.
+Motioner skickas till denna ordf@lithekod.se senast 15 maj.
 
 På mötet kommer det att bjudas på något att äta.
 Därför vill vi gärna att ni fyller i detta [formulär](https://docs.google.com/forms/d/e/1FAIpQLSdLRXD4qiDDli9Iv-_5C3vYA2HfYcv3uVasBltkQkQSDLtOEg/viewform?usp=sf_link) om ni tänker komma.
