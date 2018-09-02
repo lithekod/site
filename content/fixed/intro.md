@@ -1,9 +1,8 @@
----
-title: "Introkväll"
-type: "page"
-date: 2018-09-01T14:44:08+02:00
-draft: true
----
++++
+title = "Intro"
+sidebar = true
+weight = 1
++++
 
 ![Event banner](/assets/spotify2016-2.jpg)
 
