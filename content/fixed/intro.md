@@ -24,6 +24,6 @@ Om du är intresserad av föreningen kommer vi att ha en välkomstkväll med mat
 och aktiviteter den 10:e September vid Creactive på Mjärdevi, några minuter
 ifrån Universitetet. Anmälan till det kommer att finnas senare, men om du vill
 ha mer information och en påminnelse när du kan anmäla dig kan du skriva upp
-dig [här](https://goo.gl/forms/hL0hAIM8pfLHd2UA3)
+dig [här](https://goo.gl/forms/gltSjuvoFXS0O1dH3)
 
 
