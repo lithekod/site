@@ -16,7 +16,7 @@ För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no
 [![Ericsson logo](/assets/ericsson_logo.png)](https://www.ericsson.com/en)
 [![Ida Infront logo](/assets/idainfront_logo.jpg)](https://www.idainfront.se/en/)
 [![Opera logo](/assets/opera_logo.png)](https://www.opera.com/)
-[![Sectra logo](/assets/sectra_logo.jpg)](https://www.sectra.com/)
+[![Sectra logo](/assets/sectra_logo.jpg)](http://www.sectra.com/jobs)
 
 Registeringen är inte öppen ännu, men håll utkik här så du vet när den öppnar!
 
