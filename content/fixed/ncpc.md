@@ -14,7 +14,7 @@ Tävlingen är distribuerad och går samtidigt i Karlstad, Linköping, Luleå, L
 För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no/ncpc2017).
 
 [![Ericsson logo](/assets/ericsson_logo.png)](https://www.ericsson.com/en)
-[![Ida Infront logo](/assets/idainfront_logo.jpg)](https://www.idainfront.se/en/)
+[![Ida Infront logo](/assets/idainfront_logo.png)](https://www.idainfront.se/en/)
 [![Opera logo](/assets/opera_logo.png)](https://www.opera.com/)
 [![Sectra logo](/assets/sectra_logo.jpg)](http://www.sectra.com/jobs)
 
