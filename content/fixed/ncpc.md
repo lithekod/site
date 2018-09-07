@@ -13,10 +13,10 @@ Programmerings-SM är en programmeringstävling öppen för alla men främst rik
 Tävlingen är distribuerad och går samtidigt i Karlstad, Linköping, Luleå, Lund, Stockholm, Umeå och Uppsala.
 För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no/ncpc2017).
 
-![Ericsson logo](/assets/ericsson_logo.png)
-![Ida Infront logo](/assets/idainfront_logo.jpg)
-![Opera logo](/assets/opera_logo.png)
-![Sectra logo](/assets/sectra_logo.jpg)
+[![Ericsson logo](/assets/ericsson_logo.png)](https://www.ericsson.com/en)
+[![Ida Infront logo](/assets/idainfront_logo.jpg)](https://www.idainfront.se/en/)
+[![Opera logo](/assets/opera_logo.png)](https://www.opera.com/)
+[![Sectra logo](/assets/sectra_logo.jpg)](https://www.sectra.com/)
 
 [Registreringen](https://icpc.baylor.edu/regionals/finder/nordic-2017) är öppen till **5:e Oktober**.
 Listan med [anmälda lag](https://icpc.baylor.edu/regionals/finder/nordic-2017/teams).
