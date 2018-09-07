@@ -4,11 +4,11 @@ sidebar = true
 weight = 1
 +++
 
-> For information in English see [NCPC 2017](https://ncpc.idi.ntnu.no/ncpc2017).
+> Information in English will be available soon, some questions maybe answered in last years information: [NCPC 2017](https://ncpc.idi.ntnu.no/ncpc2017).
 
 ![ACM logo](/assets/acm.gif)
 
-Lördagen den 7 oktober kl. 11-16 kommer den 21:a upplagan av Svenskt Mästerskap i Programmering att hållas.
+Lördagen den 6 oktober kl. 10-17 kommer den 22:a upplagan av Svenskt Mästerskap i Programmering att hållas.
 Programmerings-SM är en programmeringstävling öppen för alla men främst riktad till studenter. Tävlingen är en del av [Nordic Collegiate Programming Contest](http://ncpc.idi.ntnu.no).
 Tävlingen är distribuerad och går samtidigt i Karlstad, Linköping, Luleå, Lund, Stockholm, Umeå och Uppsala.
 För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no/ncpc2017).
@@ -18,8 +18,7 @@ För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no
 [![Opera logo](/assets/opera_logo.png)](https://www.opera.com/)
 [![Sectra logo](/assets/sectra_logo.jpg)](https://www.sectra.com/)
 
-[Registreringen](https://icpc.baylor.edu/regionals/finder/nordic-2017) är öppen till **5:e Oktober**.
-Listan med [anmälda lag](https://icpc.baylor.edu/regionals/finder/nordic-2017/teams).
+Registeringen är inte öppen ännu, men håll utkik här så du vet när den öppnar!
 
 Programmerings-SM är en lagtävling.
 Ett lag består av 3 personer och en dator (tillhandahålles av arrangörerna).
@@ -29,9 +28,9 @@ Om flera lag löser lika många uppgifter vinner det lag som har minst sammanlag
 
 Första pris är evinnerlig ära.
 Lag bestående av studenter deltar dessutom i ACMs International Collegiate Programming Contest.
-En bra placering ger möjlighet att åka till regionsfinalen ([NWERC](http://www.nwerc.eu/)), som i år går i Bath, England.
+En bra placering ger möjlighet att åka till regionsfinalen ([NWERC](http://www.nwerc.eu/)), som i år går i Eindhoven, Nederländerna.
 Dit skickar universitet i hela nordvästra Europa sina bästa lag.
-Från regionsfinalen går minst ett lag vidare till världsfinalen i Rapid City, North Dakota, USA.
+Från regionsfinalen går minst ett lag vidare till världsfinalen i Peking, Kina.
 
 Sverige har en väldigt fin tradition av att placera sig bra både i regionsfinalen och i världsfinalen.
 I världsfinalen har Sverige representerats av lag från Linköping, Lund, Stockholm och Umeå.
@@ -68,12 +67,12 @@ Tävlingen är perfekt träning för dig som vill öva inför SM.
 ### Tävlingslokal
 TBD (IDA datorsal i B-huset)
 
-### Schema lördag 7 oktober 2017 (OBS: preliminärt!)
+### Schema lördag 6 oktober 2018 (OBS: preliminärt!)
 
 | Aktivitet   | Tid  |
 |---|---|
 | Introduktion samt presentation från sponsorer i [Ada Lovelace (f.d. Visionen)](http://www.ida.liu.se/department/location/search.en.shtml?keyword=ada+lovelace) - KOM I TID | 10.00 |
-| Datortest (lagen får bekanta sig med datorutrustningen)                                                                                             | 10.30 |
+| Datortest (lagen får bekanta sig med datorutrustningen)                                                                                             | 10.45 |
 | Tävlingsstart                                                                                                                                       | 11.00 |
 | Tävlingen slut                                                                                                                                      | 16.00 |
 | Eftersnack och offentliggörande av resultatet i [Ada Lovelace (f.d. Visionen)](http://www.ida.liu.se/department/location/search.en.shtml?keyword=ada+lovelace)              | 16.30 |
@@ -102,6 +101,7 @@ Luleå har till och från också varit lokalarrangör.
 Vi hoppas att kunna utöka antalet lokalarrangörer för att göra tävlingen mer tillgänglig för fler studenter i Sverige.
 Från 2005 blev Programmerings-SM en integrerad del av Nordic Collegiate Programming Contest. Från och med 2007 har tävlingen varit öppen för alla, inte bara universitetsstuderande.
 
+* [NCPC 2017](https://ncpc.idi.ntnu.no/ncpc2017/)
 * [NCPC 2016](https://ncpc.idi.ntnu.no/ncpc2016/)
 * [NCPC 2015](https://ncpc.idi.ntnu.no/ncpc2015/)
 * [NCPC 2014](http://ncpc.idi.ntnu.no/ncpc2013)
