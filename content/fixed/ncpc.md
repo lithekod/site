@@ -49,11 +49,6 @@ Har du frågor kontakta LiTHe kod på [ncpc@lithekod.se](mailto:ncpc@lithekod.se
   * [Opera Software](http://www.operasoftware.com)
   * [Sectra](https://www.sectra.com/)
 
-### IDA Mästerskap i Programmering
-
-Missa inte [IDAs mästerskap i programmering och algoritmer](http://www.ida.liu.se/impa) som pågår hela höstterminen.
-Tävlingen är perfekt träning för dig som vill öva inför SM.
-
 ### Utrustning
 * Linux-Mint
 * GNU CC/C++ 4.8.4
@@ -128,3 +123,9 @@ Från 2005 blev Programmerings-SM en integrerad del av Nordic Collegiate Program
 * [ACMs International Collegiate Programming Contest](http://icpc.baylor.edu/)
 * [North Western European Regional Contest 2012, Delft, The Netherlands](http://www.nwerc.eu/)
 * [Valladolid Problem Set Archive](http://uva.onlinejudge.org/)
+
+### IDA Mästerskap i Programmering
+
+Missa inte [IDAs mästerskap i programmering och algoritmer](http://www.ida.liu.se/impa) som pågår hela höstterminen.
+Tävlingen är perfekt träning för dig som vill öva inför SM.
+
