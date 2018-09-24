@@ -23,7 +23,7 @@ Vi kommer också bjuda på mat till alla som deltar på eventet. Anmälan för d
 
 ## Anmälan
 
-https://goo.gl/forms/HufK9lB5gclpSXbm1
+Matanmälan är stängd. Det är inga problem att komma ändå men det är inte säkert att du får mat.
 
 
 
