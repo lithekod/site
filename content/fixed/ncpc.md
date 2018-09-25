@@ -11,14 +11,14 @@ weight = 1
 Lördagen den 6 oktober kl. 10-17 kommer den 22:a upplagan av Svenskt Mästerskap i Programmering att hållas.
 Programmerings-SM är en programmeringstävling öppen för alla men främst riktad till studenter. Tävlingen är en del av [Nordic Collegiate Programming Contest](http://ncpc.idi.ntnu.no).
 Tävlingen är distribuerad och går samtidigt i Karlstad, Linköping, Luleå, Lund, Stockholm, Umeå och Uppsala.
-För mer information om tävlingen se [NCPC 2017-sidan](https://ncpc.idi.ntnu.no/ncpc2017).
+För mer information om tävlingen se [NCPC 2018-sidan](https://ncpc.idi.ntnu.no/ncpc2017).
 
 [![Ericsson logo](/assets/ericsson_logo.png)](https://www.ericsson.com/en)
 [![Ida Infront logo](/assets/idainfront_logo.png)](https://www.idainfront.se/en/)
 [![Opera logo](/assets/opera_logo.png)](https://www.opera.com/)
 [![Sectra logo](/assets/sectra_logo.jpg)](http://www.sectra.com/jobs)
 
-Registeringen är inte öppen ännu, men håll utkik här så du vet när den öppnar!
+Registeringen är öppen till 3:e oktober [här](https://ncpc.idi.ntnu.no/ncpc2018/reg.html)!
 
 Programmerings-SM är en lagtävling.
 Ett lag består av 3 personer och en dator (tillhandahålles av arrangörerna).
