@@ -5833,7 +5833,22 @@ var author$project$Main$drawView = function (model) {
 				author$project$Main$evalProgram(author$project$Main$christmasTree))
 			]));
 };
+var elm$html$Html$a = _VirtualDom_node('a');
 var elm$html$Html$h1 = _VirtualDom_node('h1');
+var elm$json$Json$Encode$string = _Json_wrap;
+var elm$html$Html$Attributes$stringProperty = F2(
+	function (key, string) {
+		return A2(
+			_VirtualDom_property,
+			key,
+			elm$json$Json$Encode$string(string));
+	});
+var elm$html$Html$Attributes$href = function (url) {
+	return A2(
+		elm$html$Html$Attributes$stringProperty,
+		'href',
+		_VirtualDom_noJavaScriptUri(url));
+};
 var author$project$Main$view = function (model) {
 	return A2(
 		elm$html$Html$div,
@@ -5846,6 +5861,17 @@ var author$project$Main$view = function (model) {
 				_List_fromArray(
 					[
 						elm$html$Html$text('God jul önskar LiTHe kod!')
+					])),
+				elm$html$Html$text('Delta gärna i vår '),
+				A2(
+				elm$html$Html$a,
+				_List_fromArray(
+					[
+						elm$html$Html$Attributes$href('http://lithekod.se/advent-of-code/')
+					]),
+				_List_fromArray(
+					[
+						elm$html$Html$text('Advent of code-tävling')
 					])),
 				elm$html$Html$text(model.evalResult),
 				A2(
