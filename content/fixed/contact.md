@@ -13,7 +13,7 @@ Om du inte redan är med i Slack-gruppen så kan du göra det via följande [lä
 * Vice ordförande: [vordf@lithekod.se](mailto:vordf@lithekod.se), Emil Segerbäck (emise935)
 * Kassör: [kassor@lithekod.se](mailto:kassor@lithekod.se), Robin Sliwa (robsl733)
 * Verksamhetsledare: [verks@lithekod.se](mailto:verks@lithekod.se), Viktor Holmgren (vikho394)
-* PR: [verks@lithekod.se](mailto:pr@lithekod.se), Christoffer Sjöbergsson (chrsj812)
+* PR: [pr@lithekod.se](mailto:pr@lithekod.se), Christoffer Sjöbergsson (chrsj812)
 * Gamejam-Ansvarig [gamejam@lithekod.se](mailto:gamejam@lithekod.se), Erik Mansén (erima668)
 
 ## Postadress
