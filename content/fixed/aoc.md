@@ -25,7 +25,7 @@ Vilken butik presentkortet ska gälla bestämmer vinnaren själv så länge buti
 
 ## Regler
 
-* För att delta så skapar du ett konto på [adventofcode.com](http://adventofcode.com) sedan skriver du upp dig på vår lederboard med koden 272152-828250f2. Därefter är det bara att börja lösa uppgifter och klättra på listan.
+* För att delta så skapar du ett konto på [adventofcode.com](http://adventofcode.com) sedan skriver du upp dig på vår lederboard med koden 272152-de3d60b2. Därefter är det bara att börja lösa uppgifter och klättra på listan.
 * Du måste vara både aktiv student vid Linköpings universitet och medlem i LiTHe kod för att delta i tävlingen. Om du inte är medlem i LiTHe kod kan du ta kontakt med kassor@lithekod.se
 * Du får inte vara förtroendevald inom föreningen.
 * Vinnare presenteras efter tävlingens avslutning på vår [facebooksida](https://www.facebook.com/LitheKod/).
