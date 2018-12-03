@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: #fff;
+    font-family: Sans-serif;
+}
+
+a {
+    color: #1ec6ba;
+    text-decoration: none;
+}
+
+
+h2 {
+    margin-top: 0px;
+    font-size: 3em;
+}
+
+h2 div {
+    display:inline;
+}
+h2 div img {
+    height: 2em;
+    position:relative;
+    top: 40px;
+}
+
+textarea {
+    background-color: black;
+    color: white;
+    resize: none;
+    height: 100%;
+    flex: 1;
+    border: none;
+    padding: 10px
+}
