@@ -12,10 +12,6 @@
   </url>
   
   <url>
-    <loc>http://lithekod.se/challenge/</loc>
-  </url>
-  
-  <url>
     <loc>http://lithekod.se/impa-uppstartsevent/</loc>
   </url>
   
@@ -25,6 +21,10 @@
   
   <url>
     <loc>http://lithekod.se/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://lithekod.se/liu-coding-challenge/</loc>
   </url>
   
   <url>

@@ -36,17 +36,6 @@ Priser 1:a plats: 1500 kr</description>
     </item>
     
     <item>
-      <title>Challenge</title>
-      <link>http://lithekod.se/challenge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lithekod.se/challenge/</guid>
-      <description>LIU Coding Challenge är den 6e av 7 deltävlingar i Swedish Coding Cup, Sveriges största individuella programmeringscup!
-Du kan läsa mer om Swedish Coding Cup (SCC) via denna länk: http://codingcup.se/
-För att delta Det enda du behöver för att delta i tävlingen är ett konto i tävlingssystemet Kattis, mer info finns på: https://open.kattis.com/. Ta antingen med dig en egen laptop eller använd en av datorerna i den datorsal som bokats för tävlingen.</description>
-    </item>
-    
-    <item>
       <title>IMPA-Uppstartsevent</title>
       <link>http://lithekod.se/impa-uppstartsevent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -75,6 +64,17 @@ Vi grundades hösten 2013 för att anordna kodstugor där studenter kunde träff
       <description>Har du någon fråga? Tveka inte att kontakta oss. Vi nås dels på Facebook, men framförallt i vår Slack-grupp.
 Om du inte redan är med i Slack-gruppen så kan du göra det via följande länk, Du behöver använda din LiU-mejladress.
 E-Mail  Ordförande: ordf@lithekod.se, Frans Skarman (frask812) Vice ordförande: vordf@lithekod.se, Emil Segerbäck (emise935) Kassör: kassor@lithekod.se, Robin Sliwa (robsl733) Verksamhetsledare: verks@lithekod.se, Viktor Holmgren (vikho394) PR: pr@lithekod.se, Christoffer Sjöbergsson (chrsj812) Gamejam-Ansvarig gamejam@lithekod.</description>
+    </item>
+    
+    <item>
+      <title>LIU Coding Challenge</title>
+      <link>http://lithekod.se/liu-coding-challenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lithekod.se/liu-coding-challenge/</guid>
+      <description>Den 30:e Mars går LIU Coding Challenge av stapeln. Det är den 4e av 6 deltävlingar i Swedish Coding Cup, Sveriges största individuella programmeringscup!
+Du kan läsa mer om Swedish Coding Cup (SCC) via denna länk: http://codingcup.se/
+För att delta Det enda du behöver för att delta i tävlingen är ett konto i tävlingssystemet Kattis, mer info finns på: https://open.kattis.com/. Ta antingen med dig en egen laptop eller använd en av datorerna i den datorsal som bokats för tävlingen.</description>
     </item>
     
     <item>
