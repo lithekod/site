@@ -11,7 +11,7 @@
       var textarea, codemirror;
 
       function runCode() {
-          console.log(textarea.value);
+          codemirror.save();
           eval(textarea.value);
       }
 
