@@ -1,8 +1,9 @@
-+++
-title = "LIU Coding Challenge"
-sidebar = false
-weight = 1
-+++
+---
+title: "LIU Coding Challenge"
+sidebar: true
+aliases: [/challenge/]
+weight: 1
+---
 
 ![Event banner](/assets/liu-challenge.jpg)
 
