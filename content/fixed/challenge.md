@@ -5,7 +5,7 @@ aliases: [/challenge/]
 weight: 1
 ---
 
-![Event banner](/assets/liu-challenge.jpg)
+<!-- ![Event banner](/assets/liu-challenge.jpg) -->
 
 Den 30:e Mars går LIU Coding Challenge av stapeln. Det är den 4e av 6
 deltävlingar i Swedish Coding Cup, Sveriges största individuella
