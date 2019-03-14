@@ -19,7 +19,7 @@ Det enda du behöver för att delta i tävlingen är ett konto i tävlingssystem
 Kattis, mer info finns på: https://open.kattis.com/.  Ta antingen med dig en
 egen laptop eller använd en av datorerna i den datorsal som bokats för
 tävlingen.
-Anmälan sker på följande [länk](https://www.eventbrite.com/e/liu-code-challenge-tickets-43362475331)
+Anmälan sker på följande [länk](https://goo.gl/forms/2DgvA6KvbLKWL9Ow1)
 
 ## Plats
 Salen Ada Lovelace (tidigare känd som Visionen) i B-huset, campus Valla. Det
@@ -39,7 +39,8 @@ online. Deltar du online kommer du få mer information mailad innan tävlingen.
 13:00 - 15:00 Tävling
 15:00 - 15:30 Lösningsgenomgång och avslut
 
-Mat kommer finnas till alla som skrivit upp sig på detta event!
+Mat kommer finnas till alla som
+[anmält](https://goo.gl/forms/2DgvA6KvbLKWL9Ow1) sig på detta event!
 
 ## Frågor på det?
 * Lokalt: verks@lithekod.se
