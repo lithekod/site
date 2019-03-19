@@ -16,8 +16,9 @@ Låter det intressant? Anmäl dig [här](https://goo.gl/forms/pYG2HFZCPHMydVav1)
 
 ## Projektideer
 
-Här är några idéer på vad man skulle kunna utveckla på hackathonet och
-självklart går det bra att göra något helt annat.
+Här är några idéer på vad man skulle kunna utveckla på hackathonet. Självklart
+går det att göra något annat projekt också och hackathonet kommer börja med
+brainstorming.
 
 - Automatisk persienuppdragning
 - Visualisering eller använding av [komunens öppna data](https://www.linkoping.se/open)
