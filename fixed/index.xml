@@ -36,6 +36,18 @@ Priser 1:a plats: 1500 kr</description>
     </item>
     
     <item>
+      <title>Hackathon</title>
+      <link>http://lithekod.se/hackathon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lithekod.se/hackathon/</guid>
+      <description>Helgen 5:e - 7:e April kommer vi att ordna ett hackathon, en helg flylld med programmering på något intressant projekt.
+Vi har köpt in hårdvara att använda under hackathonet (Raspberry PI:er, Arduinos och hårdvara för dem att styra) så du behöver inte ha med något! Delar av tiden kommer det även finnas möjlighet att utnyttja resurserna på makerspacet i närheten
+Låter det intressant? Anmäl dig här!
+Projektideer Här är några idéer på vad man skulle kunna utveckla på hackathonet och självklart går det bra att göra något helt annat.</description>
+    </item>
+    
+    <item>
       <title>IMPA-Uppstartsevent</title>
       <link>http://lithekod.se/impa-uppstartsevent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
