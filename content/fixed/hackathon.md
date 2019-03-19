@@ -8,7 +8,7 @@ Helgen 5:e - 7:e April kommer vi att ordna ett hackathon, en helg flylld med
 programmering på något intressant projekt.
 
 Vi har köpt in hårdvara att använda under hackathonet (Raspberry PI:er,
-Arduinos och hårdvara för dem att styra) så du behöver inte ha med något!
+Arduinos och hårdvara för dem att styra) så du behöver bara ta med en egen laptop!
 Delar av tiden kommer det även finnas möjlighet att utnyttja resurserna på
 [makerspacet i närheten](https://www.makerslink.se/)
 
