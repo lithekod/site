@@ -28,8 +28,7 @@ brainstorming.
 
 ## Tid
 
-5:e till 7:e April
-Start 18:00
+5:e April 18:00 till 7:e April 18:00
 
 ## Plats
 
