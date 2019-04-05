@@ -4,7 +4,7 @@ sidebar: false
 weight: 1
 ---
 
-Helgen 5:e - 7:e April kommer vi att ordna ett hackathon, en helg flylld med
+Helgen 5:e - 7:e April kommer vi att ordna ett hackathon, en helg fylld med
 programmering på något intressant projekt.
 
 Vi har köpt in hårdvara att använda under hackathonet (Raspberry PI:er,
@@ -43,10 +43,10 @@ Anmäl dig [här](https://goo.gl/forms/pYG2HFZCPHMydVav1)
 
 ## Introföreläsning om hårdvara
 
-Har du aldrig programmerat hårdvara förut? Inga problem, vi kommer att hålla en
-introföreläsning om hur elektronik och microcontrollers fungerar.
-
-Det kommer att ske i Ada Lovelace på Tisdag 2:a April.
+Har du aldrig programmerat hårdvara förut? Inga problem, vi kommer att
+hålla [en introföreläsning](https://www.facebook.com/events/305470750136697/)
+om hur elektronik och microcontrollers fungerar. Det kommer att ske i Ada
+Lovelace 17:15 på Tisdag 2:a April.
 
 Ingen anmälan krävs och vi bjuder på fika!
 
