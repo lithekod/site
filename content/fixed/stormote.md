@@ -1,7 +1,8 @@
 ---
 title: "Årsmöte"
-sidebar: false
+sidebar: true
 weight: 1
+aliases: [/arsmote/]
 ---
 
 Slutet på terminen och LiTHe kods verksamhetsår börjar närma sig sitt slut vilket betyder att det snart är dags för LiTHe kods årsmöte.
