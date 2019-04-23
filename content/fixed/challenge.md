@@ -1,6 +1,6 @@
 ---
 title: "LIU Coding Challenge"
-sidebar: true
+sidebar: false
 aliases: [/challenge/]
 weight: 1
 ---
