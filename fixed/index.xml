@@ -5,24 +5,9 @@
     <link>http://lithekod.se/fixed/</link>
     <description>Recent content in Fixeds on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 May 2018 22:25:03 +0200</lastBuildDate>
     
 	<atom:link href="http://lithekod.se/fixed/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Stormöte</title>
-      <link>http://lithekod.se/storm%C3%B6te/</link>
-      <pubDate>Wed, 02 May 2018 22:25:03 +0200</pubDate>
-      
-      <guid>http://lithekod.se/storm%C3%B6te/</guid>
-      <description>Hej! Nu är det snart dags för LiTHe kods stormöte.
-Datum: 29 maj 17:15
-Plats: kommer senare
-Motioner skickas till denna ordf@lithekod.se senast 15 maj.
-På mötet kommer det att bjudas på något att äta. Därför vill vi gärna att ni fyller i detta formulär om ni tänker komma. Vill ni nominera er själva eller någon annan till en post så fyll i detta formulär.
-En preliminär dagordning finns här.</description>
-    </item>
     
     <item>
       <title>Advent of code</title>
@@ -120,6 +105,22 @@ Mat och tävlig är begränsad till 50 platser, registrera dig här.</descriptio
       <description>For information in English, see below
 Vad gör en ingenjör på Sectra? Vad jobbar man egentligen med när man har tagit examen som ingenjör? Vad är viktigt när man jobbar i team? Och vad letar Sectra efter när de, i sin rekryteringsprocess, ber om arbetsprov, d.v.s. en programmeringsuppgift? Sectra ger sin syn på hur ni som blivande ingenjörer kan imponera på en framtida arbetsgivare!
 I samarbete med LiTHe kod bjuder Sectra in till företagskväll den 7:e december 2017, med start klockan 17:30.</description>
+    </item>
+    
+    <item>
+      <title>Årsmöte</title>
+      <link>http://lithekod.se/%C3%A5rsm%C3%B6te/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://lithekod.se/%C3%A5rsm%C3%B6te/</guid>
+      <description>Slutet på terminen och LiTHe kods verksamhetsår börjar närma sig sitt slut vilket betyder att det snart är dags för LiTHe kods årsmöte.
+Datum: 21 maj 17:15
+Plats: kommer senare
+Motioner skickas till ordf@lithekod.se senast 7:e maj.
+På mötet kommer det att bjudas på något att äta.
+En preliminär dagordning finns här.
+Med vänliga hälsningar
+Styrelsen för LiTHe kod 18-19</description>
     </item>
     
   </channel>
