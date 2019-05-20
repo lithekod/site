@@ -10,7 +10,7 @@ Nu är det snart dags för LiTHe kods stormöte.
 
 **Datum:** 29 maj 17:15
 
-**Plats:** kommer senare
+**Plats:** S14
 
 Motioner skickas till denna ordf@lithekod.se senast 15 maj.
 
