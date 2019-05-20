@@ -1,6 +1,6 @@
 +++
 title = "IMPA-Uppstartsevent"
-sidebar = true
+sidebar = false
 weight = 1
 +++
 

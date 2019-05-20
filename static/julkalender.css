@@ -24,12 +24,16 @@ h2 div img {
     top: 40px;
 }
 
-textarea {
-    background-color: black;
-    color: white;
-    resize: none;
+#app {
+    display: flex;
+    height: 500px;
+}
+
+#codeview {
+    flex: 1;
+}
+
+#drawview {
     height: 100%;
     flex: 1;
-    border: none;
-    padding: 10px
 }
