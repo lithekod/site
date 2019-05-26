@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>http://lithekod.se/</link>
+    <link>https://lithekod.se/</link>
     <language>en-us</language>
     <author>LiTHe kod</author>
     <rights>(C) 2018</rights>
@@ -31,10 +31,10 @@
       
         <item>
           <title>Stormötet 2018</title>
-          <link>http://lithekod.se/2018/05/29/storm%C3%B6tet-2018/</link>
+          <link>https://lithekod.se/2018/05/29/storm%C3%B6tet-2018/</link>
           <pubDate>Tue, 29 May 2018 20:48:03 CEST</pubDate>
           <author>LiTHe kod</author>
-          <guid>http://lithekod.se/2018/05/29/storm%C3%B6tet-2018/</guid>
+          <guid>https://lithekod.se/2018/05/29/storm%C3%B6tet-2018/</guid>
           <description>&lt;p&gt;2018-05-29 hölls årets upplaga av LiTHe kods stormöte.
 Förutom pizzaätande så är stormötena till för att besluta om bland annat: nya motioner, nästa års medlemsavgift och nästa års styrelse.&lt;/p&gt;
 
@@ -58,10 +58,10 @@ Förutom pizzaätande så är stormötena till för att besluta om bland annat: 
       
         <item>
           <title>Stormötet 2017</title>
-          <link>http://lithekod.se/2017/05/25/storm%C3%B6tet-2017/</link>
+          <link>https://lithekod.se/2017/05/25/storm%C3%B6tet-2017/</link>
           <pubDate>Thu, 25 May 2017 20:48:03 CEST</pubDate>
           <author>LiTHe kod</author>
-          <guid>http://lithekod.se/2017/05/25/storm%C3%B6tet-2017/</guid>
+          <guid>https://lithekod.se/2017/05/25/storm%C3%B6tet-2017/</guid>
           <description>&lt;p&gt;2017-05-24 hölls årets upplaga av LiTHe kods stormöte.
 Förutom pizzaätande så är stormötena till för att besluta om bland annat: nya motioner, nästa års medlemsavgift och nästa års styrelse.&lt;/p&gt;
 
@@ -83,10 +83,10 @@ Förutom pizzaätande så är stormötena till för att besluta om bland annat: 
       
         <item>
           <title>Stormöte</title>
-          <link>http://lithekod.se/2017/04/24/storm%C3%B6te/</link>
+          <link>https://lithekod.se/2017/04/24/storm%C3%B6te/</link>
           <pubDate>Mon, 24 Apr 2017 21:22:31 CEST</pubDate>
           <author>LiTHe kod</author>
-          <guid>http://lithekod.se/2017/04/24/storm%C3%B6te/</guid>
+          <guid>https://lithekod.se/2017/04/24/storm%C3%B6te/</guid>
           <description>&lt;p&gt;Nu är det dags för LiTHe kods stormöte.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Datum:&lt;/strong&gt; 24 maj 17:15-19:00&lt;/p&gt;
@@ -107,10 +107,10 @@ Förutom pizzaätande så är stormötena till för att besluta om bland annat: 
       
         <item>
           <title>Kodstuga med Opera</title>
-          <link>http://lithekod.se/2016/11/29/kodstuga-med-opera/</link>
+          <link>https://lithekod.se/2016/11/29/kodstuga-med-opera/</link>
           <pubDate>Tue, 29 Nov 2016 00:00:00 UTC</pubDate>
           <author>LiTHe kod</author>
-          <guid>http://lithekod.se/2016/11/29/kodstuga-med-opera/</guid>
+          <guid>https://lithekod.se/2016/11/29/kodstuga-med-opera/</guid>
           <description>&lt;p&gt;Den 13e december kl 17:30 är det dags för storstuga i CreActive!
 Opera bjuder på mat och dryck och kommer närvara under kvällen.&lt;/p&gt;
 
@@ -128,27 +128,27 @@ Har du registrerat dig men kan inte komma? Kontakta &lt;a href=&#34;verks@lithek
       
         <item>
           <title>NCPC 2016</title>
-          <link>http://lithekod.se/2016/08/05/ncpc-2016/</link>
+          <link>https://lithekod.se/2016/08/05/ncpc-2016/</link>
           <pubDate>Fri, 05 Aug 2016 00:00:00 UTC</pubDate>
           <author>LiTHe kod</author>
-          <guid>http://lithekod.se/2016/08/05/ncpc-2016/</guid>
+          <guid>https://lithekod.se/2016/08/05/ncpc-2016/</guid>
           <description>
 
 &lt;blockquote&gt;
 &lt;p&gt;For information in English see &lt;a href=&#34;https://ncpc.idi.ntnu.no/ncpc2016&#34;&gt;NCPC 2016&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://lithekod.se/assets/acm.gif&#34; alt=&#34;ACM logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lithekod.se/assets/acm.gif&#34; alt=&#34;ACM logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Lördagen den 8 oktober kl. 11-16 kommer den 20:e upplagan av Svenskt Mästerskap i Programmering att hållas.
 Programmerings-SM är en programmeringstävling öppen för alla men främst riktad till studenter. Tävlingen är en del av &lt;a href=&#34;http://ncpc.idi.ntnu.no&#34;&gt;Nordic Collegiate Programming Contest&lt;/a&gt;.
 Tävlingen är distribuerad och går samtidigt i Karlstad, Linköping, Luleå, Lund, Stockholm, Umeå och Uppsala.
 För mer information om tävlingen se &lt;a href=&#34;https://ncpc.idi.ntnu.no/ncpc2016&#34;&gt;NCPC 2016&lt;/a&gt; sidan.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://lithekod.se/assets/ericsson_logo.png&#34; alt=&#34;Ericsson logo&#34; /&gt;
-&lt;img src=&#34;http://lithekod.se/assets/idainfront_logo.jpg&#34; alt=&#34;Ida Infront logo&#34; /&gt;
-&lt;img src=&#34;http://lithekod.se/assets/opera_logo.png&#34; alt=&#34;Opera logo&#34; /&gt;
-&lt;img src=&#34;http://lithekod.se/assets/autoliv_logo.png&#34; alt=&#34;Autoliv logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lithekod.se/assets/ericsson_logo.png&#34; alt=&#34;Ericsson logo&#34; /&gt;
+&lt;img src=&#34;https://lithekod.se/assets/idainfront_logo.jpg&#34; alt=&#34;Ida Infront logo&#34; /&gt;
+&lt;img src=&#34;https://lithekod.se/assets/opera_logo.png&#34; alt=&#34;Opera logo&#34; /&gt;
+&lt;img src=&#34;https://lithekod.se/assets/autoliv_logo.png&#34; alt=&#34;Autoliv logo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://ncpc.idi.ntnu.no/ncpc2016/reg.html&#34;&gt;Registreringen&lt;/a&gt; är öppen till &lt;strong&gt;6 Oktober 18:00 CEST&lt;/strong&gt;.
 Listan med &lt;a href=&#34;https://icpc.baylor.edu/regionals/finder/nordic-2016/teams&#34;&gt;anmälda lag&lt;/a&gt;.&lt;/p&gt;
@@ -310,10 +310,10 @@ Från 2005 blev Programmerings-SM en integrerad del av Nordic Collegiate Program
       
         <item>
           <title>NWERC 2015</title>
-          <link>http://lithekod.se/2015/11/02/nwerc-2015/</link>
+          <link>https://lithekod.se/2015/11/02/nwerc-2015/</link>
           <pubDate>Mon, 02 Nov 2015 00:00:00 UTC</pubDate>
           <author>LiTHe kod</author>
-          <guid>http://lithekod.se/2015/11/02/nwerc-2015/</guid>
+          <guid>https://lithekod.se/2015/11/02/nwerc-2015/</guid>
           <description>
 
 &lt;p&gt;Nu är det äntligen dags!

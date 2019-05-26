@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixeds on </title>
-    <link>http://lithekod.se/fixed/</link>
+    <link>https://lithekod.se/fixed/</link>
     <description>Recent content in Fixeds on </description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://lithekod.se/fixed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lithekod.se/fixed/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Advent of code</title>
-      <link>http://lithekod.se/advent-of-code/</link>
+      <link>https://lithekod.se/advent-of-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/advent-of-code/</guid>
+      <guid>https://lithekod.se/advent-of-code/</guid>
       <description>Advent of code är en trevlig utmaning som varje år går att hitta på adventofcode.com. Det hela går ut på att lösa en liten programmeringsutmaning varje dag från den 1:a till och med den 25:e december.
 Även i år tänkte vi i LiTHe kod göra det hela lite mer motiverande! Vi presenterar därför en tävling med fina priser i form av presentkort i följande valörer.
 Priser 1:a plats: 1500 kr</description>
@@ -22,10 +22,10 @@ Priser 1:a plats: 1500 kr</description>
     
     <item>
       <title>Hackathon</title>
-      <link>http://lithekod.se/hackathon/</link>
+      <link>https://lithekod.se/hackathon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/hackathon/</guid>
+      <guid>https://lithekod.se/hackathon/</guid>
       <description>Helgen 5:e - 7:e April kommer vi att ordna ett hackathon, en helg fylld med programmering på något intressant projekt.
 Vi har köpt in hårdvara att använda under hackathonet (Raspberry PI:er, Arduinos och hårdvara för dem att styra) så du behöver bara ta med en egen laptop! Delar av tiden kommer det även finnas möjlighet att utnyttja resurserna på makerspacet i närheten
 Låter det intressant? Anmäl dig här!
@@ -34,30 +34,30 @@ Projektideer Här är några idéer på vad man skulle kunna utveckla på hackat
     
     <item>
       <title>IMPA-Uppstartsevent</title>
-      <link>http://lithekod.se/impa-uppstartsevent/</link>
+      <link>https://lithekod.se/impa-uppstartsevent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/impa-uppstartsevent/</guid>
+      <guid>https://lithekod.se/impa-uppstartsevent/</guid>
       <description>Är du intresserad av tävlingsprogrammering där du kan vinna fina priser och samtidigt bli bättre på algoritmprogrammering? Då kanske IMPA, IDAs mästerskap i programmering kan vara något för dig. Tävlingen sker online under hela läsåret och du kan vara med så mycket eller lite du vill.
 På tisdag 25:a september kommer vi att ha ett uppstartsevent för tävlingen där vi berättar hur man gör för att delta. Vi kommer även att visa en eller två uppgifter så ni får en känsla för hur uppgifterna ser ut, och några enkla poäng i tävlingen.</description>
     </item>
     
     <item>
       <title>Intro</title>
-      <link>http://lithekod.se/intro/</link>
+      <link>https://lithekod.se/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/intro/</guid>
+      <guid>https://lithekod.se/intro/</guid>
       <description>Vad kul att du är intresserad av LiTHe kod! Vi är en studentförening vid Linköpings Universitet vars syfte är att främja och inspirera intresset för programmering, mjukvaruutveckling och allt som hör till.
 Vi grundades hösten 2013 för att anordna kodstugor där studenter kunde träffas, prata och hjälpa varandra med allt kodrelaterat. Vi har sedan dess fortsatt att utvecklas och arrangerar idag en rad olika typer av aktiviteter såsom studiebesök, workshops, föreläsningar, Game-Jams, programmeringstävlingar och såklart kodstugor.</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>http://lithekod.se/kontakt/</link>
+      <link>https://lithekod.se/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/kontakt/</guid>
+      <guid>https://lithekod.se/kontakt/</guid>
       <description>Har du någon fråga? Tveka inte att kontakta oss. Vi nås dels på Facebook, men framförallt i vår Slack-grupp.
 Om du inte redan är med i Slack-gruppen så kan du göra det via följande länk, Du behöver använda din LiU-mejladress.
 E-Mail  Ordförande: ordf@lithekod.se, Frans Skarman (frask812) Vice ordförande: vordf@lithekod.se, Emil Segerbäck (emise935) Kassör: kassor@lithekod.se, Robin Sliwa (robsl733) Verksamhetsledare: verks@lithekod.se, Viktor Holmgren (vikho394) PR: pr@lithekod.se, Christoffer Sjöbergsson (chrsj812) Gamejam-Ansvarig gamejam@lithekod.</description>
@@ -65,10 +65,10 @@ E-Mail  Ordförande: ordf@lithekod.se, Frans Skarman (frask812) Vice ordförande
     
     <item>
       <title>LIU Coding Challenge</title>
-      <link>http://lithekod.se/liu-coding-challenge/</link>
+      <link>https://lithekod.se/liu-coding-challenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/liu-coding-challenge/</guid>
+      <guid>https://lithekod.se/liu-coding-challenge/</guid>
       <description>Den 30:e Mars går LIU Coding Challenge av stapeln. Det är den 4e av 6 deltävlingar i Swedish Coding Cup, Sveriges största individuella programmeringscup!
 Du kan läsa mer om Swedish Coding Cup (SCC) via denna länk: http://codingcup.se/
 För att delta Det enda du behöver för att delta i tävlingen är ett konto i tävlingssystemet Kattis, mer info finns på: https://open.kattis.com/. Ta antingen med dig en egen laptop eller använd en av datorerna i den datorsal som bokats för tävlingen.</description>
@@ -76,20 +76,20 @@ För att delta Det enda du behöver för att delta i tävlingen är ett konto i 
     
     <item>
       <title>NCPC</title>
-      <link>http://lithekod.se/ncpc/</link>
+      <link>https://lithekod.se/ncpc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/ncpc/</guid>
+      <guid>https://lithekod.se/ncpc/</guid>
       <description>Information in English will be available soon, some questions maybe answered in last years information: NCPC 2017.
  Lördagen den 6 oktober kl. 10-17 kommer den 22:a upplagan av Svenskt Mästerskap i Programmering att hållas. Programmerings-SM är en programmeringstävling öppen för alla men främst riktad till studenter. Tävlingen är en del av Nordic Collegiate Programming Contest. Tävlingen är distribuerad och går samtidigt i Karlstad, Linköping, Luleå, Lund, Stockholm, Umeå och Uppsala.</description>
     </item>
     
     <item>
       <title>Opera</title>
-      <link>http://lithekod.se/opera/</link>
+      <link>https://lithekod.se/opera/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/opera/</guid>
+      <guid>https://lithekod.se/opera/</guid>
       <description>The text will follow in English.
 Julstuga Den 11e december kl 17:30 är det dags för storstuga i CreActive! Opera kommer närvara under kvällen och bjuder givetvis på både julmat och dryck.
 Under kvällen så kommer det även hållas en liten programmeringstävling där alla deltagare får en julklapp, nämligen en Raspberry Pi, så ta med dig en dator och var redo att hacka!
@@ -98,10 +98,10 @@ Mat och tävlig är begränsad till 50 platser, registrera dig här.</descriptio
     
     <item>
       <title>Sectra</title>
-      <link>http://lithekod.se/sectra/</link>
+      <link>https://lithekod.se/sectra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/sectra/</guid>
+      <guid>https://lithekod.se/sectra/</guid>
       <description>For information in English, see below
 Vad gör en ingenjör på Sectra? Vad jobbar man egentligen med när man har tagit examen som ingenjör? Vad är viktigt när man jobbar i team? Och vad letar Sectra efter när de, i sin rekryteringsprocess, ber om arbetsprov, d.v.s. en programmeringsuppgift? Sectra ger sin syn på hur ni som blivande ingenjörer kan imponera på en framtida arbetsgivare!
 I samarbete med LiTHe kod bjuder Sectra in till företagskväll den 7:e december 2017, med start klockan 17:30.</description>
@@ -109,10 +109,10 @@ I samarbete med LiTHe kod bjuder Sectra in till företagskväll den 7:e december
     
     <item>
       <title>Årsmöte</title>
-      <link>http://lithekod.se/%C3%A5rsm%C3%B6te/</link>
+      <link>https://lithekod.se/%C3%A5rsm%C3%B6te/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lithekod.se/%C3%A5rsm%C3%B6te/</guid>
+      <guid>https://lithekod.se/%C3%A5rsm%C3%B6te/</guid>
       <description>Slutet på terminen och LiTHe kods verksamhetsår börjar närma sig sitt slut vilket betyder att det snart är dags för LiTHe kods årsmöte.
 Datum: 21 maj 17:15
 Plats: S14
